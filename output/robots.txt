@@ -1,0 +1,4 @@
+Sitemap: https://belkinsa.github.io/SenseOpenness/sitemapindex.xml
+
+User-Agent: *
+Host: belkinsa.github.io
