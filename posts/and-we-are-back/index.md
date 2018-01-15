@@ -2,7 +2,7 @@
 .. title: And We Are Back...
 .. slug: and-we-are-back
 .. date: 2017-12-28 12:51:25 UTC-05:00
-.. tags: unity, wetlands, news, lessons-learned, ubuntu, open-science, workflow
+.. tags: wetlands, news, lessons-learned, ubuntu, open-science, workflow
 .. category: 
 .. link: 
 .. description: Nov 2016 to Jan 2018 update as the blog was down for that long. This includes some lessons that I learned from running the blog on WordPress.
