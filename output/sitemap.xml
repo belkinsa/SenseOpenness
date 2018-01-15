@@ -7,15 +7,19 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/</loc>
-  <lastmod>2018-01-12T17:12:00Z</lastmod>
+  <lastmod>2018-01-15T19:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/2017/</loc>
   <lastmod>2018-01-12T17:07:00Z</lastmod>
  </url>
  <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/2018/</loc>
+  <lastmod>2018-01-15T19:52:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://belkinsa.github.io/SenseOpenness/archive.html</loc>
-  <lastmod>2018-01-12T18:16:00Z</lastmod>
+  <lastmod>2018-01-15T19:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/</loc>
@@ -56,5 +60,9 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/posts/and-we-are-back/</loc>
   <lastmod>2018-01-12T17:07:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/posts/why-nikola/</loc>
+  <lastmod>2018-01-15T19:52:00Z</lastmod>
  </url>
 </urlset>

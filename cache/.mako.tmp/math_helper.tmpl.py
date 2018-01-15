@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1515781007.298377
+_modified_time = 1516045960.145213
 _enable_loop = True
-_template_filename = u'/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/math_helper.tmpl'
+_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/math_helper.tmpl'
 _template_uri = u'math_helper.tmpl'
 _source_encoding = 'ascii'
 _exports = ['math_scripts', 'math_styles', 'math_styles_ifposts', 'math_styles_ifpost', 'math_scripts_ifpost', 'math_scripts_ifposts']
@@ -139,6 +139,6 @@ def render_math_scripts_ifposts(context,posts):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "ascii", "line_map": {"130": 44, "131": 45, "132": 46, "133": 46, "134": 46, "140": 134, "16": 0, "21": 30, "22": 36, "23": 42, "24": 48, "25": 54, "26": 60, "32": 2, "39": 2, "40": 3, "41": 4, "42": 6, "43": 7, "44": 10, "45": 10, "46": 14, "47": 15, "48": 19, "49": 21, "50": 22, "51": 23, "52": 23, "53": 23, "54": 24, "55": 25, "61": 32, "66": 32, "67": 33, "68": 34, "74": 56, "81": 56, "82": 57, "83": 58, "84": 58, "85": 58, "91": 50, "97": 50, "98": 51, "99": 52, "100": 52, "101": 52, "107": 38, "113": 38, "114": 39, "115": 40, "116": 40, "117": 40, "123": 44}, "uri": "math_helper.tmpl", "filename": "/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/math_helper.tmpl"}
+{"source_encoding": "ascii", "line_map": {"130": 44, "131": 45, "132": 46, "133": 46, "134": 46, "140": 134, "16": 0, "21": 30, "22": 36, "23": 42, "24": 48, "25": 54, "26": 60, "32": 2, "39": 2, "40": 3, "41": 4, "42": 6, "43": 7, "44": 10, "45": 10, "46": 14, "47": 15, "48": 19, "49": 21, "50": 22, "51": 23, "52": 23, "53": 23, "54": 24, "55": 25, "61": 32, "66": 32, "67": 33, "68": 34, "74": 56, "81": 56, "82": 57, "83": 58, "84": 58, "85": 58, "91": 50, "97": 50, "98": 51, "99": 52, "100": 52, "101": 52, "107": 38, "113": 38, "114": 39, "115": 40, "116": 40, "117": 40, "123": 44}, "uri": "math_helper.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/math_helper.tmpl"}
 __M_END_METADATA
 """

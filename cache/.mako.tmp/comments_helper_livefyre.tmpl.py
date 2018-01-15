@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1515781007.35958
+_modified_time = 1516045960.209269
 _enable_loop = True
-_template_filename = u'/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/comments_helper_livefyre.tmpl'
+_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/comments_helper_livefyre.tmpl'
 _template_uri = u'comments_helper_livefyre.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['comment_form', 'comment_link', 'comment_link_script']
@@ -70,6 +70,6 @@ def render_comment_link_script(context):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"65": 31, "34": 2, "35": 7, "36": 7, "37": 11, "38": 11, "71": 65, "55": 25, "44": 23, "61": 31, "16": 0, "49": 23, "50": 24, "51": 24, "52": 25, "21": 21, "22": 28, "23": 33, "54": 25, "29": 2, "53": 25}, "uri": "comments_helper_livefyre.tmpl", "filename": "/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/comments_helper_livefyre.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"65": 31, "34": 2, "35": 7, "36": 7, "37": 11, "38": 11, "71": 65, "55": 25, "44": 23, "61": 31, "16": 0, "49": 23, "50": 24, "51": 24, "52": 25, "21": 21, "22": 28, "23": 33, "54": 25, "29": 2, "53": 25}, "uri": "comments_helper_livefyre.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/comments_helper_livefyre.tmpl"}
 __M_END_METADATA
 """

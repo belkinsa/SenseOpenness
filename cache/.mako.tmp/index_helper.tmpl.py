@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1515781007.293636
+_modified_time = 1516045960.139181
 _enable_loop = True
-_template_filename = u'/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/index_helper.tmpl'
+_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/index_helper.tmpl'
 _template_uri = u'index_helper.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['mathjax_script', 'html_pager']
@@ -79,6 +79,6 @@ def render_html_pager(context):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "31": 2, "32": 20, "33": 25, "39": 23, "44": 23, "45": 24, "46": 24, "52": 3, "59": 3, "60": 4, "61": 5, "62": 7, "63": 8, "64": 9, "65": 9, "66": 9, "67": 9, "68": 12, "69": 13, "70": 14, "71": 14, "72": 14, "73": 14, "74": 17, "80": 74}, "uri": "index_helper.tmpl", "filename": "/home/tester/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/index_helper.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"23": 2, "26": 0, "31": 2, "32": 20, "33": 25, "39": 23, "44": 23, "45": 24, "46": 24, "52": 3, "59": 3, "60": 4, "61": 5, "62": 7, "63": 8, "64": 9, "65": 9, "66": 9, "67": 9, "68": 12, "69": 13, "70": 14, "71": 14, "72": 14, "73": 14, "74": 17, "80": 74}, "uri": "index_helper.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/index_helper.tmpl"}
 __M_END_METADATA
 """
