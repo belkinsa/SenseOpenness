@@ -15,4 +15,4 @@ Like Aaron, I'm using Linode for server hosting. Again, Gandi's Simple Hosting i
 
 Hopefully this is the last major change I do for my site.
 
-**Edit to Add:** How did I forget to give a **[LINK](www.senseopenness.com)** to it?
+**Edit to Add:** I removed the link to the landing page but it's senseopenness.com, just Copy and Paste it. Gandi's sever hosting is pricey and I would rather pay $7 a month than like $10+.
