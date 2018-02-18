@@ -15,4 +15,4 @@ Like Aaron, I'm using Linode for server hosting. Again, Gandi's Simple Hosting i
 
 Hopefully this is the last major change I do for my site.
 
-**Edit to Add:** How did I forget to give a **[LINK](senseopenness.com)** to it?
+**Edit to Add:** How did I forget to give a **[LINK](www.senseopenness.com)** to it?
