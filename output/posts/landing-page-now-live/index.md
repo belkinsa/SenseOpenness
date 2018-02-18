@@ -14,3 +14,5 @@ As I stated before, I switched from WordPress to Nikola but I lost the landing/h
 Like Aaron, I'm using Linode for server hosting. Again, Gandi's Simple Hosting is not being nice.
 
 Hopefully this is the last major change I do for my site.
+
+**Edit to Add:** How did I forget to give a **[LINK]9senseopenness.com)** to it?
