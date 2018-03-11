@@ -30,7 +30,7 @@ And these pros win over the two cons that I can name:
 
 Example:
 
-![http://senseopenness.com/Images/Blog/OutlineinMarkdown.png](Outline in Markdown)
+![Outline in Markdown](http://senseopenness.com/Images/Blog/OutlineinMarkdown.png)
 
 This outline system allows you to write content without using classic outlining formating if you want to write longer items for each points without making it hard to read.
 
@@ -41,6 +41,6 @@ The reason, over Atom, is reText dedicated for Markdown but you can still open o
 
 This is how I draft in Markdown in reText:
 
-![http://senseopenness.com/Images/Blog/DraftingMarkdown.png](Drafting in Markdown)
+![Drafting in Markdown](http://senseopenness.com/Images/Blog/DraftingMarkdown.png)
 
 It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example. 
