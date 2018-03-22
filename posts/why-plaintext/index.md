@@ -44,3 +44,5 @@ This is how I draft in Markdown in reText:
 ![Drafting in Markdown](http://senseopenness.com/Images/Blog/DraftingMarkdown.png)
 
 It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example. 
+
+**EDIT TO ADD:** I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.
