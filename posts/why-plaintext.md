@@ -30,18 +30,21 @@ And these pros win over the two cons that I can name:
 
 Example:
 
-![Outline in Markdown](http://senseopenness.com/Images/Blog/OutlineinMarkdown.png)
+![Outline in Markdown](http://senseopenness.com/Images/Blog/SenseOpenness/WhyPlainText/OutlineinMarkdown.png)
 
 This outline system allows you to write content without using classic outlining formating if you want to write longer items for each points without making it hard to read.
 
 * The need for a previewer for markup languages
 
 Recently I found a Markdown editor/live previewer called [reText](https://github.com/retext-project/retext) which, to me, is better than GitHub's Atom or QOwnNotes. 
+
+
+
 The reason, over Atom, is reText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, reText is not a hierarchical note taking program.
 
 This is how I draft in Markdown in reText:
 
-![Drafting in Markdown](http://senseopenness.com/Images/Blog/DraftingMarkdown.png)
+![Drafting in Markdown](http://senseopenness.com/Images/Blog//SenseOpenness/WhyPlainText/DraftingMarkdown.png)
 
 It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example. 
 
