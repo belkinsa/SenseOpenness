@@ -54,7 +54,7 @@ I'm giving features a 10/10 because as you can see:
 
 * Fullscreen works in the latest version
 
-* [Table editing/formating](https://github.com/ReText-project/ReText/wiki/Table-editing-mode) is much easier
+* [Table editing/formating](https://github.com/ReText-project/reTextReview/wiki/Table-editing-mode) is much easier
 
 * It has auto-fill for numbered and un-numbered lists
 
@@ -80,7 +80,7 @@ I'm giving features a 10/10 because as you can see:
 
 * It can insert certain symbols in text, for example: &larr;
 
-* It has [other features](https://github.com/ReText-project/ReText/wiki) that are cool
+* It has [other features](https://github.com/ReText-project/reTextReview/wiki) that are cool
 
 #Conclusion
 
