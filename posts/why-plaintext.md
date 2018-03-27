@@ -36,13 +36,13 @@ This outline system allows you to write content without using classic outlining 
 
 * The need for a previewer for markup languages
 
-Recently I found a Markdown editor/live previewer called [reText](https://github.com/retext-project/retext) which, to me, is better than GitHub's Atom or QOwnNotes. 
+Recently I found a Markdown editor/live previewer called [ReText](https://github.com/ReText-project/ReText) which, to me, is better than GitHub's Atom or QOwnNotes. 
 
 
 
-The reason, over Atom, is reText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, reText is not a hierarchical note taking program.
+The reason, over Atom, is ReText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, ReText is not a hierarchical note taking program.
 
-This is how I draft in Markdown in reText:
+This is how I draft in Markdown in ReText:
 
 ![Drafting in Markdown](http://senseopenness.com/Images/Blog//SenseOpenness/WhyPlainText/DraftingMarkdown.png)
 
