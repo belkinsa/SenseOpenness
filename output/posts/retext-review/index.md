@@ -13,11 +13,11 @@
 
 As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-plaintext/), I found a great Markdown editor called [ReText](https://github.com/ReText-project/ReText). I decided to write a review on the program, but for that, I wanted to show what preferences I have on.  I'm not sure if those would effect the review.
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesB.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/reTextPreferencesB.png)
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesE.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/reTextPreferencesE.png)
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesI.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/reTextPreferencesI.png)
 
 #The Review
 
