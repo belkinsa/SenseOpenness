@@ -1,6 +1,6 @@
 <!--
-.. title: reText Review
-.. slug: retext-review
+.. title: ReText Review
+.. slug: ReText-review
 .. date: 2018-03-25 11:19:55 UTC-04:00
 .. tags: reviews 
 .. category: 
@@ -11,13 +11,13 @@
 
 #Introduction
 
-As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-plaintext/), I found a great Markdown editor called [reText](https://github.com/retext-project/retext). I decided to write a review on the program, but for that, I wanted to show what preferences I have on.  I'm not sure if those would effect the review.
+As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-plaintext/), I found a great Markdown editor called [ReText](https://github.com/ReText-project/ReText). I decided to write a review on the program, but for that, I wanted to show what preferences I have on.  I'm not sure if those would effect the review.
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesB.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesB.png)
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesE.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesE.png)
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesI.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ReTextPreferencesI.png)
 
 #The Review
 
@@ -27,15 +27,15 @@ As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-
 
 I'm giving UX a 7.5/10. Reason number one is there is no find/find-replace button on the tool bar. The next reason is there is no way to customize the tool bar. The third reason is the line counter hides the text when text is in that corner of the screen
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/LineNumberHidingText.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/LineNumberHidingText.png)
 
 but it fades out when cursor is on it
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/FadeWhenCursorOnIt.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/FadeWhenCursorOnIt.png)
 
 Next is the symbols need to be defined; I don't really use symbols and some of those, such as & larr ; (without spaces); I don't know. I  Last but not least, the images don't show up on the live previewer. I have to use [Markdown Preview](http://markdownlivepreview.com/), a web-based tool to check the images.
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/ImagesDontShow.png)
+![](http://senseopenness.com/Images/Blog/SenseOpenness/ReTextReview/ImagesDontShow.png)
 
 ###Performance
 
@@ -54,7 +54,7 @@ I'm giving features a 10/10 because as you can see:
 
 * Fullscreen works in the latest version
 
-* [Table editing/formating](https://github.com/retext-project/retext/wiki/Table-editing-mode) is much easier
+* [Table editing/formating](https://github.com/ReText-project/ReText/wiki/Table-editing-mode) is much easier
 
 * It has auto-fill for numbered and un-numbered lists
 
@@ -80,8 +80,8 @@ I'm giving features a 10/10 because as you can see:
 
 * It can insert certain symbols in text, for example: &larr;
 
-* It has [other features](https://github.com/retext-project/retext/wiki) that are cool
+* It has [other features](https://github.com/ReText-project/ReText/wiki) that are cool
 
 #Conclusion
 
-Overall, I'm giving reText a 9/10 because the features and the performance wins out over the UX.
+Overall, I'm giving ReText a 9/10 because the features and the performance wins out over the UX.
