@@ -1,6 +1,6 @@
 <!--
 .. title: ReText Review
-.. slug: ReText-review
+.. slug: retext-review
 .. date: 2018-03-25 11:19:55 UTC-04:00
 .. tags: reviews 
 .. category: 
