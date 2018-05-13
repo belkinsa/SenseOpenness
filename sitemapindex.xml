@@ -19,7 +19,11 @@
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/reviews.xml</loc>
-  <lastmod>2018-03-27T22:51:00Z</lastmod>
+  <lastmod>2018-03-27T22:53:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://belkinsa.github.io/SenseOpenness/categories/ubuntu-reviews.xml</loc>
+  <lastmod>2018-05-13T21:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/ubuntu.xml</loc>
@@ -35,10 +39,10 @@
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/rss.xml</loc>
-  <lastmod>2018-03-27T22:51:00Z</lastmod>
+  <lastmod>2018-05-13T21:57:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/sitemap.xml</loc>
-  <lastmod>2018-03-27T22:51:00Z</lastmod>
+  <lastmod>2018-05-13T21:57:00Z</lastmod>
  </sitemap>
 </sitemapindex>
