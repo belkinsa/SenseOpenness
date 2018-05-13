@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about ubuntu reviews)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/ubuntu-reviews.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Sun, 13 May 2018 21:57:12 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Ubuntu 18.04 LTS Review</title><link>https://belkinsa.github.io/SenseOpenness/posts/ubuntu-1804-lts-review/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Resisting change can be a blessing and a cruse and resisting changing to Ubuntu 18.04 LTS is a cruse. While I'm sad that I leaving Unity behind, due to some issues on 16.04 LTS, I'm glad that I decided to switch. Though I do miss Unity.&lt;/p&gt;
+&lt;p&gt;I decided to do a minimal install instead of a full one because there are many programs that I do need.  I only need Firefox, PDF Reader,video player, and the core system programs. The rest of the programs that I need, including ReText and the System76 drivers, aren't included in the full install. Over the last years, I noticed that I don't use LibreOffice or the music player.&lt;/p&gt;
+&lt;h2&gt;The Good&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Minimal installation option&lt;/li&gt;
+&lt;li&gt;Calendar apps such as GNOME Calendar and Evolution are better integrated with the top panel. Though it would be cool to see To Do tasks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Bad&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ReText is not integrated in the dock, it opens another instance on the dock, if favored.&lt;/li&gt;
+&lt;li&gt;Nautilus doesn't have the integrated bookmarked folders in the dock when right clicked on the icon&lt;/li&gt;
+&lt;li&gt;No recent files on the Dash of the dock (can't think of the term)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Screenshots&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="https://pbs.twimg.com/media/DcoSWniWAAAOvFo.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://pbs.twimg.com/media/DcoSmtRWkAAbXcO.jpg"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>ubuntu reviews</category><guid>https://belkinsa.github.io/SenseOpenness/posts/ubuntu-1804-lts-review/</guid><pubDate>Sun, 13 May 2018 21:53:41 GMT</pubDate></item></channel></rss>
