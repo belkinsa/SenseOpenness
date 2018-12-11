@@ -26,7 +26,6 @@ I decided to do a minimal install instead of a full one because there are many p
 
 #Screenshots
 
-![](https://pbs.twimg.com/media/DcoSWniWAAAOvFo.jpg)
+![](/images/neofetch.png)
 
-![](https://pbs.twimg.com/media/DcoSmtRWkAAbXcO.jpg)
-
+![](/images/desktop.png)

@@ -30,7 +30,7 @@ And these pros win over the two cons that I can name:
 
 Example:
 
-![Outline in Markdown](http://senseopenness.com/Images/Blog/SenseOpenness/WhyPlainText/OutlineinMarkdown.png)
+<img src="/images/OutlineinMarkdown.png">
 
 This outline system allows you to write content without using classic outlining formating if you want to write longer items for each points without making it hard to read.
 
@@ -43,9 +43,8 @@ Recently I found a Markdown editor/live previewer called [ReText](https://github
 The reason, over Atom, is ReText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, ReText is not a hierarchical note taking program.
 
 This is how I draft in Markdown in ReText:
+<img src="/images/DraftingMarkdown.png">
 
-![Drafting in Markdown](http://senseopenness.com/Images/Blog//SenseOpenness/WhyPlainText/DraftingMarkdown.png)
-
-It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example. 
+It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example.
 
 **EDIT TO ADD:** I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.
