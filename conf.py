@@ -134,8 +134,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-	("about/index.html", "About"),
-        ("/archive.html", "Archive"),
+	("blog", "Blog"),
+#        ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
         ("/rss.xml", "RSS feed"),
     ),
@@ -183,18 +183,20 @@ THEME_COLOR = '#5670d4'
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-)
-PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("posts/*.rst", "blog", "post.tmpl"),
+    ("posts/*.txt", "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.md", "blog", "post.tmpl"),
 )
 
+PAGES = (
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
+)
+
+INDEX_PATH = "blog"
 
 # Below this point, everything is optional
 
@@ -320,7 +322,7 @@ COMPILERS = {
 
 # Writes tag cloud data in form of tag_cloud_data.json.
 # Warning: this option will change its default value to False in v8!
-WRITE_TAG_CLOUD = True
+WRITE_TAG_CLOUD = False
 
 # Generate pages for each section. The site must have at least two sections
 # for this option to take effect. It wouldn't build for just one section.
@@ -942,7 +944,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = '<p><a href="https://twitter.com/senseopenness">Twitter</a> | <a href="https://github.com/belkinsa">Github</a> | <a href="https://wiki.ubuntu.com/belkinsa">Ubuntu Wiki</a>   | <a href="https://web.archive.org/web/20161030014830/http://senseopenness.com:80/">Internet Archive</a> of old Sense of Openness blog. <p>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}  <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
