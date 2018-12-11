@@ -13,11 +13,11 @@
 
 As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-plaintext/), I found a great Markdown editor called [ReText](https://github.com/ReText-project/ReText). I decided to write a review on the program, but for that, I wanted to show what preferences I have on.  I'm not sure if those would effect the review.
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesB.png)
+<img src="/images/reTextPreferencesB.png">
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesE.png)
+<img src="/images/reTextPreferencesE.png">
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/reTextPreferencesI.png)
+<img src="/images/reTextPreferencesI.png">
 
 #The Review
 
@@ -27,15 +27,15 @@ As I said in the [last post](https://belkinsa.github.io/SenseOpenness/posts/why-
 
 I'm giving UX a 7.5/10. Reason number one is there is no find/find-replace button on the tool bar. The next reason is there is no way to customize the tool bar. The third reason is the line counter hides the text when text is in that corner of the screen
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/LineNumberHidingText.png)
+<img src="/images/LineNumberHidingText.png">
 
 but it fades out when cursor is on it
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/FadeWhenCursorOnIt.png)
+<img src="/images/FadeWhenCursorOnIt.png">
 
 Next is the symbols need to be defined; I don't really use symbols and some of those, such as & larr ; (without spaces); I don't know. I  Last but not least, the images don't show up on the live previewer. I have to use [Markdown Preview](http://markdownlivepreview.com/), a web-based tool to check the images.
 
-![](http://senseopenness.com/Images/Blog/SenseOpenness/reTextReview/ImagesDontShow.png)
+<img src="/images/ImagesDontShow.png">
 
 ###Performance
 
