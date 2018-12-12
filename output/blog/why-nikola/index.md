@@ -2,8 +2,8 @@
 .. title: Why Nikola
 .. slug: why-nikola
 .. date: 2018-01-15 14:51:13 UTC-05:00
-.. tags: ubuntu
-.. category: 
+.. tags: 
+.. category: Open Source
 .. link: 
 .. description: 
 .. type: text

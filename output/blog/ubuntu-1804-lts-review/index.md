@@ -2,8 +2,8 @@
 .. title: Ubuntu 18.04 LTS Review
 .. slug: ubuntu-1804-lts-review
 .. date: 2018-05-13 17:53:41 UTC-04:00
-.. tags: ubuntu reviews
-.. category: 
+.. tags: reviews, Ubuntu
+.. category: Open Source
 .. link: 
 .. description: 
 .. type: text
