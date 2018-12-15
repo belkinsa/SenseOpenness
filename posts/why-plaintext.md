@@ -2,7 +2,7 @@
 .. title: Why Plain Text?
 .. slug: why-plaintext
 .. date: 2018-03-11 14:46:17 UTC-04:00
-.. tags: workflow
+.. tags:
 .. category: Open Source
 .. link: 
 .. description: Because it is!
