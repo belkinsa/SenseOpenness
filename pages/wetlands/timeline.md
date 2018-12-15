@@ -31,12 +31,12 @@
 
 - 8th: **I, Svetlana** started to collect data
 - 15th: Placed 20 day lilies, one without leaves (experiment) and 19 with leaves (control) in the small pond
-![](https://raw.githubusercontent.com/belkinsa/GrailvilleWetlands/9ff0ac0a6776790386f51783362a87258b3d36f8/photos/DayLilliesJune152016.jpg)
+![](/images/DayLilliesJune152016.jpg)
 - 22nd: It rained as I collected data
 - 28th: Threw in a nibbler
-![](http://i.imgur.com/8D6zoaY.jpg)
-![](http://i.imgur.com/mwIabK9.jpg)
-![](http://i.imgur.com/CAkpVrJ.jpg)
+![](images/wetlands/nibbler.jpeg)
+![](/wetlands/whereibblerthrown1.jpeg)
+![](/wetlands/whereibblerthrown2.jpeg)
 
 ## August
 
@@ -57,12 +57,12 @@
 
 ## March
 
-- 27th: Started data collection season and did an examination of the small pond. Here are the findings (with [photos](https://github.com/belkinsa/GrailvilleWetlands/tree/master/notes/photos/03-27-2017_findings):
+- 27th: Started data collection season and did an examination of the small pond. Here are the findings with [photos](/galleries/grass-like_plant):
 
     - Found an oily residue near the data collecting edge/point
     - There is life:
         - Frogs and tadpoles
-        - A snapping turtule
+        - A snapping turtle
         - Traces of duckweed
         - Blades of grass-like plants
 
@@ -97,9 +97,9 @@
 
     - One with big, broad, fuzzy leaves
     - Wheat-grass like plant with long, narrow leaves
-    - Olive-green stemed plant with small, narrow, serrated leaves
+    - Olive-green stemmed plant with small, narrow, serrated leaves
     - Ground cover-like plant with small green-reddish leaves
-    
+
 This could explain the raise in the average pH compared to last year.
 
 The big pond has 10% - 20 % duckweed, ~80% has died off.

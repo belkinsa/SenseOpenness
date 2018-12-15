@@ -8,30 +8,29 @@
 .. description: 
 .. type: text
 -->
+# Abstract
+
+To not repeat myself in the write-ups, please refer to the [info page](/wetlands/info) of the repo for the introduction, methods, and materials.
+
 # 2016 Write-Up
-
-## Abstract
-
-To not repeat myself in the write-ups, please refer to the [README.md](https://github.com/belkinsa/GrailvilleWetlands/blob/master/README.md) of the repo for the introduction, methods, and materials.
 
 ## Analysis
 
-Analysis will start from [June of 2016](https://github.com/belkinsa/GrailvilleWetlands/blob/master/notes/timeline.md#2016), as I did not collect data and notes. 
+Analysis will start from [June of 2016](/wetlands/timeline), as I did not collect data and notes.
 
 ### Big Pond
 
-In the beginning of my data collection, I noted that Ammonia was at 0.25 parts per millon (ppm) seven (7) weeks with two weeks of 0.5 ppm in between the weeks of the 0.25 ppm levels. The pH levels stayed around 7 with two (2) weeks of 7.5 and a week of 8. Luckly the Nitrite and Phoshate levels stayed at zero (0) ppm.
+In the beginning of my data collection, I noted that Ammonia was at 0.25 parts per million (ppm) seven (7) weeks with two weeks of 0.5 ppm in between the weeks of the 0.25 ppm levels. The pH levels stayed around 7 with two (2) weeks of 7.5 and a week of 8. Luckily the Nitrite and Phosphate levels stayed at zero (0) ppm.
 
 ### Small Pond
 
-In the beginning of my data collection, I noted that Ammonia was at 0.25 ppm in the small pond for eight (8) weeks. Near the end of the season, the Phoshate levels peaked at two (2) ppm but within two weeks, it went back down to zero (0). The pH levels ranged from 6 to 7.5, mostly the 7 to 7.5 range with a week of 6 and two (2) with 6.5. Luckly the Nitrite levels stayed at zero (0) ppm.
-
+In the beginning of my data collection, I noted that Ammonia was at 0.25 ppm in the small pond for eight (8) weeks. Near the end of the season, the Phosphate levels peaked at two (2) ppm but within two weeks, it went back down to zero (0). The pH levels ranged from 6 to 7.5, mostly the 7 to 7.5 range with a week of 6 and two (2) with 6.5. Luckly the Nitrite levels stayed at zero (0) ppm.
 
 ## Conclusions
 
 ### Big Pond
 
-The reason why the Ammonia stayed at 0.25 ppm then dropped is because (as noted in the [timeline](https://github.com/belkinsa/GrailvilleWetlands/blob/master/notes/timeline.md#august-1)) the cattle nearby the pond were moved futher away from it.
+The reason why the Ammonia stayed at 0.25 ppm then dropped is because (as noted in the [timeline](/wetlands/timeline)the cattle nearby the pond were moved further away from it.
 
 ### Small Pond
 
@@ -45,17 +44,13 @@ Due to me getting a new job just as the data collection season ended and then a 
 
 # 2017 Write-Up
 
-## Abstract
-
-To not repeat myself in the write-ups, please refer to the [README.md](https://github.com/belkinsa/GrailvilleWetlands/blob/master/README.md) of the repo for the introduction, methods, and materials.
-
 ## Analysis
 
 ### Big Pond
 
-So far this year, the pH started at 8 with a few times going down to 7.5 but in most of May and the first week of June. After that first week of June, the pH stayed stable with some fluxuations between 6 and 7.5.
+So far this year, the pH started at 8 with a few times going down to 7.5 but in most of May and the first week of June. After that first week of June, the pH stayed stable with some fluctuations between 6 and 7.5.
 
-![big.png](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/figures/big.png)
+![big.png](/images/bigRemoved.png)
 
 I decided to focus on analyzing pH out of all the elements because it's the one that changes the most. The average pH over the years rose while the min went down and the max stayed the same.
 
@@ -67,7 +62,7 @@ Like last year, the nitrite and phosphate levels stayed down at 0 ppm.
 
 So far for this year, the pH has mostly stayed between 6.5 and 7.5, only one time reaching to 8; that was when the data collection season started.
 
-![small.png](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/figures/small.png)
+![small.png](/images/smallRemoved.png)
 
 I decided to focus on analyzing pH out of all the elements because it's the one that changes the most. The average pH over the years rose while the min and max changed through the years.
 
@@ -101,19 +96,15 @@ N/A
 
 # 2018 Write-Up
 
-## Abstract
-
-To not repeat myself in the write-ups, please refer to the [README.md](https://github.com/belkinsa/GrailvilleWetlands/blob/master/README.md) of the repo for the introduction, methods, and materials.
-
 ## Analysis
 
 ### Big Pond
 
-[!](https://raw.githubusercontent.com/belkinsa/GrailvilleWetlands/master/dataanalysis/figures/southside/big.png)
+![](/images/wetlands/big.png)
 
 ### Small Pond
 
-[!](https://raw.githubusercontent.com/belkinsa/GrailvilleWetlands/master/dataanalysis/figures/southside/small.png)
+![](/images/wetlands/small.png)
 
 ## Conclusions
 
