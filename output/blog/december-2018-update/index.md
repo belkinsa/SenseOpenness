@@ -22,7 +22,7 @@ Earlier this month, I started to work on moving all the images used in posts and
 #What's Next
 
 - **Different Theme.** I might change the colors of the theme that comes with the basic theme or I will play around with [another](https://themes.getnikola.com/).
-- - **My wetlands work will live on the site.** This is for the ease of reading the markdown files.
+- **My wetlands work will live on the site.** This is for the ease of reading the markdown files.
 
 #Lessons Learned
 
