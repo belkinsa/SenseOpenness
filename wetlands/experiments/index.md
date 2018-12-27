@@ -34,9 +34,11 @@ In the last data collection season (2017), three floats were placed with yarrow 
 
 **Note**: These steps below should be done after Mother's Day in the Midwest due to frost.
 
-2. Both peat moss and Coconut Coir, which comes in a brick, need to be moistened. To do so, place the material in a deep bowl and place  some water and mix. You will need a packing consistency in order to pack the pots to the top. If too dry, the peat moss/coir will flow out of the pot, mainly the top.  If too wet, it might not pack well.  
+2. Both peat moss and Coconut Coir, which comes in a brick, need to be moistened. To do so, place the material in a deep bowl and place  some water and mix. You will need a packing consistency in order to pack the pots to the top. If too dry, the peat moss/coir will flow out of the pot, mainly the top.  If too wet, it might not pack well.
 3. Once at pond, place the pots into the holes of the mat.
 4. Tie some rope to one end of the mat with a brick. This brick acts as the weight to keep the mat from drifting off.
 5. Take the kayak and take the mat out into the pond.
 6. Data collect like normal.
 7. At the end of the data collection season (around the last week of October), use the kayak to pull in the mat.
+
+[Photos](/galleries/wetlands/experiments)

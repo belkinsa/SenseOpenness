@@ -31,12 +31,12 @@
 
 - 8th: **I, Svetlana** started to collect data
 - 15th: Placed 20 day lilies, one without leaves (experiment) and 19 with leaves (control) in the small pond
-![](/images/DayLilliesJune152016.jpg)
+![](/images/wetlands/DayLilliesJune152016.jpg)
 - 22nd: It rained as I collected data
 - 28th: Threw in a nibbler
 ![](images/wetlands/nibbler.jpeg)
-![](/wetlands/whereibblerthrown1.jpeg)
-![](/wetlands/whereibblerthrown2.jpeg)
+![](images/wetlands/whereibblerthrown1.jpeg)
+![](images/wetlands/whereibblerthrown2.jpeg)
 
 ## August
 
