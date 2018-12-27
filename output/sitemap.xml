@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/</loc>
-  <lastmod>2018-12-15T18:05:00Z</lastmod>
+  <lastmod>2018-12-27T17:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/2017/</loc>
@@ -19,11 +19,11 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/archive.html</loc>
-  <lastmod>2018-12-15T16:04:00Z</lastmod>
+  <lastmod>2018-12-27T17:58:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/</loc>
-  <lastmod>2018-12-15T16:04:00Z</lastmod>
+  <lastmod>2018-12-27T16:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/and-we-are-back/</loc>
@@ -36,6 +36,10 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/december-2018-update/</loc>
   <lastmod>2018-12-15T16:04:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/blog/december-27-2018-update/</loc>
+  <lastmod>2018-12-27T16:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/nov-12-2018-update/</loc>
@@ -110,6 +114,14 @@
   <lastmod>2018-12-15T16:40:00Z</lastmod>
  </url>
  <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/programs-that-i-use/</loc>
+  <lastmod>2018-12-27T17:58:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/</loc>
+  <lastmod>2018-12-27T15:20:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/experiments/</loc>
   <lastmod>2018-12-15T18:05:00Z</lastmod>
  </url>
@@ -124,6 +136,10 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plan/</loc>
   <lastmod>2018-12-15T18:05:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/</loc>
+  <lastmod>2018-12-27T15:20:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/research_plans/</loc>

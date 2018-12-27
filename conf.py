@@ -135,9 +135,9 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("blog", "Blog"),
-#        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+	("/categories/", "Categories"),
+    ("/wetlands/index.html", "Wetlands Index"),
+    ("/programs-that-i-use.html", "Progams Used"),
     ),
 }
 
@@ -944,7 +944,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<p><a href="https://twitter.com/senseopenness">Twitter</a> | <a href="https://www.youtube.com/channel/UC-5ykhLNjukKLoOjYf8D5tg"> YouTube</a> |<a href="https://github.com/belkinsa">Github</a> | <a href="https://wiki.ubuntu.com/belkinsa">Ubuntu Wiki</a>   | <a href="https://web.archive.org/web/20161030014830/http://senseopenness.com:80/">Internet Archive</a> of old Sense of Openness blog. <p>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}  <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>'
+CONTENT_FOOTER = '<p><a href="/rss.xml">RSS Feed</a> | <a href="https://twitter.com/senseopenness">Twitter</a> | <a href="https://www.youtube.com/channel/UC-5ykhLNjukKLoOjYf8D5tg">YouTube</a> | <a href="https://github.com/belkinsa">Github</a> | <a href="https://wiki.ubuntu.com/belkinsa">Ubuntu Wiki</a> | <a href="https://web.archive.org/web/20161030014830/http://senseopenness.com:80/">Internet Archive</a> of old Sense of Openness blog. <p>Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}  <p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
