@@ -10,6 +10,7 @@
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
 <link rel="canonical" href="https://belkinsa.github.io/SenseOpenness/blog/">
+<link rel="next" href="index-1.html" type="text/html">
 <!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]-->
 </head>
 <body>
@@ -66,7 +67,43 @@
 
     
 <div class="postindex">
-    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="december-27-2018-update/" class="u-url">December 27, 2018 Update</a></h1>
+    <article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="setting-up-git-pages-with-gandinet-domain/" class="u-url">Setting Up Git Pages With Gandi.net Domain</a></h1>
+        <div class="metadata">
+            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
+                Svetlana Belkin
+            </span></p>
+            <p class="dateline"><a href="setting-up-git-pages-with-gandinet-domain/" rel="bookmark"><time class="published dt-published" datetime="2018-12-28T17:11:04-05:00" title="2018-12-28 17:11">2018-12-28 17:11</time></a></p>
+        </div>
+    </header><div class="e-content entry-content">
+    <div>
+<p>After a week or so of trying to get the custom domain to work with Git Pages from Git Hub, I got it to work. Once again, it was from not doing my homework on how domains work as from what I bolded in the e-mail that Dante A. from Gandi.net's customer support. But I can't blame myself on doing my homework.</p>
+<blockquote>
+<p>Hello again,</p>
+<p>Here is the current configuration of your DNS Records:</p>
+<p>Github 1800 IN A 185.199.108.153
+Github 1800 IN A 185.199.109.153
+Github 1800 IN A 185.199.110.153
+Github 1800 IN A 185.199.111.153
+blog 10800 IN CNAME username.github.io
+webmail 10800 IN CNAME webmail.gandi.net.
+www 10800 IN CNAME webredir.vip.gandi.net.</p>
+<p>If you want this to be available at your bare domain and 'www' subdomain, you should change these records to the following:</p>
+<p>@ 1800 IN A 185.199.108.153
+@ 1800 IN A 185.199.109.153
+@ 1800 IN A 185.199.110.153
+@ 1800 IN A 185.199.111.153
+blog 10800 IN CNAME username.github.io.
+webmail 10800 IN CNAME webmail.gandi.net.
+www 10800 IN CNAME username.github.io.</p>
+<p><strong>The '@' A record represents your bare domain. Please make these changes to the records and allow for them to propagate. Once done, your site should point to the Github page as expected.</strong></p>
+<h3>Best,</h3>
+<p>\o/ Dante A.
+G https://www.gandi.net/</p>
+</blockquote>
+<p>Hopefully there will not be anymore issues with my site and blog.</p>
+</div>
+    </div>
+    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="december-27-2018-update/" class="u-url">December 27, 2018 Update</a></h1>
         <div class="metadata">
             <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
                 Svetlana Belkin
@@ -370,46 +407,15 @@
 <p>I also considered using Jekyll, but I found it harder to use as a first time user of Jekyll and also for static site generators. Also <strong>(I think)</strong>, your file formats for posts must be in a certain way.</p>
 </div>
     </div>
-    </article><article class="h-entry post-text"><header><h1 class="p-name entry-title"><a href="and-we-are-back/" class="u-url">And We Are Back...</a></h1>
-        <div class="metadata">
-            <p class="byline author vcard"><span class="byline-name fn" itemprop="author">
-                Svetlana Belkin
-            </span></p>
-            <p class="dateline"><a href="and-we-are-back/" rel="bookmark"><time class="published dt-published" datetime="2017-12-28T12:51:25-05:00" title="2017-12-28 12:51">2017-12-28 12:51</time></a></p>
-        </div>
-    </header><div class="e-content entry-content">
-    <div>
-<p>... <strong>FOR GOOD! And with major changes!</strong></p>
-<h2>What Changed?</h2>
-<p>After almost a year and two or three months, I finally got my blog running again and not with WordPress. Wordpress and JetPack/VaultPress plug-ins gave me enough headaches mainly from restoring a backup from another server/host to a new server/host. Lucky nothing was lost, <a href="https://web.archive.org/web/20161030014830/http://senseopenness.com:80/">content</a> (thank you Internet Archive!) or money (I was able to get a full refund for both JetPack and Simple Hosting by Gandi, which I switched to).</p>
-<p>I saw a <a href="https://bryanquigley.com/posts/converting/now-powered-by-gitlab-nikola-and-cloudflare.html">post</a> by Bryan Quigley about a static site generator called <a href="https://getnikola.com/">Nikola</a>. Along with the reasons on why Bryan Quigley picked to use Nikola minus the WordPress import, the two main reasons why I picked Nikola is the ability to write posts/pages in Markdown and in my favorite text editor (gedit) and the ease of first time start-up and use. I decided to not use GitLabs though or Cloudflare. If you want to try Nikola on Ubuntu, Martin Wimpress wrote a <a href="https://flexion.org/posts/2015-11-installing-nikola-on-ubuntu/">great guide</a>.</p>
-<p>I still have tweaks to make to the blog/site but I wanted to share the news with you.</p>
-<h2>Other Updates</h2>
-<p>Not that much happened over the down time, but I do have some updates to share.</p>
-<h3>Grailvillie Wetlands</h3>
-<p>Data collection season ended a month ago and, like always, I'm working on researching possible solutions- but this time for the Clermont Park Distinct (still under Grailville) since the Grail sold the north side of Grailville to them.  I have another season to data collect because it's a two year proccess for the transfer. Sad news, but at least I have a say in what they can do with the ponds. At least the land is going to good hands.</p>
-<h3>Ubuntu</h3>
-<p>Due to the lack of free time that I had, I stepped down from the CC. Mainly because I was missing the meetings because of my work schedule. There is another reason but it's something that I don't wish to share publicly at this moment in time.</p>
-<p>A week before the recent Ubuntu release, I tried that said release and disliked it. The reason is simple, I may be resisting change. At least I wasn't the only one who disliked it. These people use a <a href="https://community.ubuntu.com/c/desktop/ubuntu-unity-dev">sub-forum</a> on the community.ubuntu.com site for discussions. I invite those who want Unity 7 to maintained to join. There is also a <a href="https://launchpad.net/~unity7maintainers">Launchpad team</a>.</p>
-<p>I also want to share two articles on this topic:</p>
-<ul>
-<li>
-<a href="http://www.omgubuntu.co.uk/2017/11/ubuntu-unity-remix">Miss Unity? An ‘Ubuntu Unity Remix’ Could Be on the Way…</a> via OMG! Ubuntu!</li>
-<li>
-<a href="https://www.fossmint.com/fans-of-unity-desktop-are-working-on-a-new-remix/">Fans of “Unity Desktop” Are Working on a New Remix</a> via Foss Mint</li>
-</ul>
-</div>
-    </div>
     </article>
 </div>
 
-
-
-
-
-
-
-        </div>
+        <nav class="postindexpager"><ul class="pager">
+<li class="next">
+                <a href="index-1.html" rel="next">Older posts</a>
+            </li>
+        </ul></nav>
+</div>
         <!--End of body content-->
 
         <footer id="footer"><p><a href="../rss.xml">RSS Feed</a> | <a href="https://twitter.com/senseopenness">Twitter</a> | <a href="https://www.youtube.com/channel/UC-5ykhLNjukKLoOjYf8D5tg">YouTube</a> | <a href="https://github.com/belkinsa">Github</a> | <a href="https://wiki.ubuntu.com/belkinsa">Ubuntu Wiki</a> | <a href="https://web.archive.org/web/20161030014830/http://senseopenness.com:80/">Internet Archive</a> of old Sense of Openness blog. </p>
