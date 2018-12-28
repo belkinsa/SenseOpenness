@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("blog", "Blog"),
 	("/categories/", "Categories"),
-    ("/wetlands/index/", "Wetlands Index"),
+    ("/wetlands/index.htlm", "Wetlands Index"),
     ("/programs-that-i-use/", "Progams Used"),
     ),
 }
