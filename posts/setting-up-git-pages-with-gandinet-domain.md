@@ -3,7 +3,7 @@
 .. slug: setting-up-git-pages-with-gandinet-domain
 .. date: 2018-12-28 17:11:04 UTC-05:00
 .. tags: 
-.. category: 
+.. category: News
 .. link: 
 .. description: 
 .. type: text
