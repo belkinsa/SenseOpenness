@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness</title><link>https://belkinsa.github.io/SenseOpenness/</link><description>Are you feeling it?</description><atom:link href="https://belkinsa.github.io/SenseOpenness/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Sat, 29 Dec 2018 02:54:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Setting Up Git Pages With Gandi.net Domain</title><link>https://belkinsa.github.io/SenseOpenness/blog/setting-up-git-pages-with-gandinet-domain/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;After a week or so of trying to get the custom domain to work with Git Pages from Git Hub, I got it to work. Once again, it was from not doing my homework on how domains work as from what I bolded in the e-mail that Dante A. from Gandi.net's customer support. But I can't blame myself on doing my homework.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness</title><link>https://belkinsa.github.io/SenseOpenness/</link><description>Are you feeling it?</description><atom:link href="https://belkinsa.github.io/SenseOpenness/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Tue, 08 Jan 2019 00:57:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Media PC</title><link>https://belkinsa.github.io/SenseOpenness/blog/media-pc/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;I forgotten that, in my house, I have big screen TVs and an unused ThinkCentre- and what prefect use for those two things? &lt;strong&gt;Watching Twitch/YouTube/Movies on the big screen!&lt;/strong&gt; A week ago, I set up my ThinkCentre media PC and I found that it's a nice set up for Ubuntu Linux. It could be better because the DisplayPort connection doesn't stay stable if the computer is left on. It will go back to the computer's speakers after awhile. The only solution at this time is to restart the computer. I also found out that there are no senors on the ThinkCentre but if you watch from a distance and/or with load volumes, you will not hear the fan.&lt;/p&gt;
+&lt;p&gt;My current set (below) up is the TV hooked up with a full HDMI cable that goes to a switcher. I have this because I also have a Nintendo Switch hooked up to the TV by it's own full HDMI cable in the one of the ports of the switcher. In the other port, a HDMI/DisplayPort connects the ThinkCentre. A powerline adapter provides internet since the computer doesn't have a wireless network card and a Logitech media keyboard.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/mediaPC/20181230_133515.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/mediaPC/20190101_142202.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Hopefully I will have fun watching things on the big screen, which I haven't done forever!&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/media-pc/</guid><pubDate>Mon, 07 Jan 2019 17:19:52 GMT</pubDate></item><item><title>Setting Up Git Pages With Gandi.net Domain</title><link>https://belkinsa.github.io/SenseOpenness/blog/setting-up-git-pages-with-gandinet-domain/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;After a week or so of trying to get the custom domain to work with Git Pages from Git Hub, I got it to work. Once again, it was from not doing my homework on how domains work as from what I bolded in the e-mail that Dante A. from Gandi.net's customer support. But I can't blame myself on doing my homework.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hello again,&lt;/p&gt;
 &lt;p&gt;Here is the current configuration of your DNS Records:&lt;/p&gt;
@@ -192,25 +196,4 @@ G https://www.gandi.net/&lt;/p&gt;
 &lt;p&gt;This is how I draft in Markdown in ReText:
 &lt;img src="https://belkinsa.github.io/SenseOpenness/images/DraftingMarkdown.png"&gt;&lt;/p&gt;
 &lt;p&gt;It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EDIT TO ADD:&lt;/strong&gt; I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</guid><pubDate>Sun, 11 Mar 2018 18:46:17 GMT</pubDate></item><item><title>Why Nikola</title><link>https://belkinsa.github.io/SenseOpenness/blog/why-nikola/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;As I stated previously, I switched from WordPress to Nikola for hosting my blog. Here, I want to explain more in depth on why Nikola is, to me, the best choice for a static generator.&lt;/p&gt;
-&lt;h2&gt;Over WordPress&lt;/h2&gt;
-&lt;p&gt;Over that year when my blog was down, I think WordPress made some changes with their WordPress importer and I wasn't able to import from my backup file that I had. That's one reason there. I can list the other reasons along with the &lt;a href="https://getnikola.com/features/index.html"&gt;reasons&lt;/a&gt; stated on the Nikola's official site:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;There is a built-in way to write in Markdown and have it phrased.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A text editor of your own choice is used. Some times that is better than the web based editor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The files are stored locally and on a server.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub/GitHub Pages/GitLab can be used to host.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The themes are better becuase they don't have the side bar on the left-hand side.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Over Jekyll&lt;/h2&gt;
-&lt;p&gt;I also considered using Jekyll, but I found it harder to use as a first time user of Jekyll and also for static site generators. Also &lt;strong&gt;(I think)&lt;/strong&gt;, your file formats for posts must be in a certain way.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/why-nikola/</guid><pubDate>Mon, 15 Jan 2018 19:51:13 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;EDIT TO ADD:&lt;/strong&gt; I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</guid><pubDate>Sun, 11 Mar 2018 18:46:17 GMT</pubDate></item></channel></rss>
