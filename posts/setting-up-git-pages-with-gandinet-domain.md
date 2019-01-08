@@ -18,21 +18,33 @@ After a week or so of trying to get the custom domain to work with Git Pages fro
 >Here is the current configuration of your DNS Records:
 
 >Github 1800 IN A 185.199.108.153
+
 >Github 1800 IN A 185.199.109.153
+
 >Github 1800 IN A 185.199.110.153
+
 >Github 1800 IN A 185.199.111.153
+
 >blog 10800 IN CNAME username.github.io
+
 >webmail 10800 IN CNAME webmail.gandi.net.
+
 >www 10800 IN CNAME webredir.vip.gandi.net.
 
 >If you want this to be available at your bare domain and 'www' subdomain, you should change these records to the following:
 
 >@ 1800 IN A 185.199.108.153
+
 >@ 1800 IN A 185.199.109.153
+
 >@ 1800 IN A 185.199.110.153
+
 >@ 1800 IN A 185.199.111.153
+
 >blog 10800 IN CNAME username.github.io.
+
 >webmail 10800 IN CNAME webmail.gandi.net.
+
 >www 10800 IN CNAME username.github.io.
 
 >**The '@' A record represents your bare domain. Please make these changes to the records and allow for them to propagate. Once done, your site should point to the Github page as expected.**

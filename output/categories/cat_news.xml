@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about News)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/cat_news.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Sat, 29 Dec 2018 02:54:20 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Setting Up Git Pages With Gandi.net Domain</title><link>https://belkinsa.github.io/SenseOpenness/blog/setting-up-git-pages-with-gandinet-domain/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;After a week or so of trying to get the custom domain to work with Git Pages from Git Hub, I got it to work. Once again, it was from not doing my homework on how domains work as from what I bolded in the e-mail that Dante A. from Gandi.net's customer support. But I can't blame myself on doing my homework.&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about News)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/cat_news.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Tue, 08 Jan 2019 01:09:45 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Setting Up Git Pages With Gandi.net Domain</title><link>https://belkinsa.github.io/SenseOpenness/blog/setting-up-git-pages-with-gandinet-domain/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;After a week or so of trying to get the custom domain to work with Git Pages from Git Hub, I got it to work. Once again, it was from not doing my homework on how domains work as from what I bolded in the e-mail that Dante A. from Gandi.net's customer support. But I can't blame myself on doing my homework.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Hello again,&lt;/p&gt;
 &lt;p&gt;Here is the current configuration of your DNS Records:&lt;/p&gt;
-&lt;p&gt;Github 1800 IN A 185.199.108.153
-Github 1800 IN A 185.199.109.153
-Github 1800 IN A 185.199.110.153
-Github 1800 IN A 185.199.111.153
-blog 10800 IN CNAME username.github.io
-webmail 10800 IN CNAME webmail.gandi.net.
-www 10800 IN CNAME webredir.vip.gandi.net.&lt;/p&gt;
+&lt;p&gt;Github 1800 IN A 185.199.108.153&lt;/p&gt;
+&lt;p&gt;Github 1800 IN A 185.199.109.153&lt;/p&gt;
+&lt;p&gt;Github 1800 IN A 185.199.110.153&lt;/p&gt;
+&lt;p&gt;Github 1800 IN A 185.199.111.153&lt;/p&gt;
+&lt;p&gt;blog 10800 IN CNAME username.github.io&lt;/p&gt;
+&lt;p&gt;webmail 10800 IN CNAME webmail.gandi.net.&lt;/p&gt;
+&lt;p&gt;www 10800 IN CNAME webredir.vip.gandi.net.&lt;/p&gt;
 &lt;p&gt;If you want this to be available at your bare domain and 'www' subdomain, you should change these records to the following:&lt;/p&gt;
-&lt;p&gt;@ 1800 IN A 185.199.108.153
-@ 1800 IN A 185.199.109.153
-@ 1800 IN A 185.199.110.153
-@ 1800 IN A 185.199.111.153
-blog 10800 IN CNAME username.github.io.
-webmail 10800 IN CNAME webmail.gandi.net.
-www 10800 IN CNAME username.github.io.&lt;/p&gt;
+&lt;p&gt;@ 1800 IN A 185.199.108.153&lt;/p&gt;
+&lt;p&gt;@ 1800 IN A 185.199.109.153&lt;/p&gt;
+&lt;p&gt;@ 1800 IN A 185.199.110.153&lt;/p&gt;
+&lt;p&gt;@ 1800 IN A 185.199.111.153&lt;/p&gt;
+&lt;p&gt;blog 10800 IN CNAME username.github.io.&lt;/p&gt;
+&lt;p&gt;webmail 10800 IN CNAME webmail.gandi.net.&lt;/p&gt;
+&lt;p&gt;www 10800 IN CNAME username.github.io.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The '@' A record represents your bare domain. Please make these changes to the records and allow for them to propagate. Once done, your site should point to the Github page as expected.&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;Best,&lt;/h3&gt;
 &lt;p&gt;\o/ Dante A.
