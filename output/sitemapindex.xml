@@ -7,54 +7,58 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_news.xml</loc>
-  <lastmod>2018-12-27T19:40:00Z</lastmod>
+  <lastmod>2019-01-07T15:00:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_off-topic.xml</loc>
-  <lastmod>2018-12-27T19:40:00Z</lastmod>
+  <lastmod>2019-01-07T22:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_open-source.xml</loc>
-  <lastmod>2018-12-27T19:40:00Z</lastmod>
+  <lastmod>2019-01-07T22:37:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://belkinsa.github.io/SenseOpenness/galleries/mediaPC/rss.xml</loc>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/experiments/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/findings/03-27-2017_findings/grass-like_plant/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/findings/03-27-2017_findings/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/findings/10-14-2017_findings/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/findings/10-22-18_findings/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/findings/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/galleries/wetlands/rss.xml</loc>
-  <lastmod>2018-12-28T14:24:00Z</lastmod>
+  <lastmod>2019-01-07T17:19:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/rss.xml</loc>
-  <lastmod>2018-12-28T23:03:00Z</lastmod>
+  <lastmod>2019-01-07T22:37:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://belkinsa.github.io/SenseOpenness/sitemap.xml</loc>
-  <lastmod>2018-12-28T23:03:00Z</lastmod>
+  <lastmod>2019-01-07T22:37:00Z</lastmod>
  </sitemap>
 </sitemapindex>
