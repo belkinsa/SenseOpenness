@@ -46,7 +46,7 @@ From the [initiatives](http://www.grailville.org/green-grailville/initiatives/) 
 
 2. Those samples are than analyzed using a simple pond testing kit to analyze the levels of pH, Ammonia, Nitrite, and Phosphate.
 
-3. A .csv file for each pond is used to collect data, labeled [big.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/big.csv) and [small.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/small.csv) respectfully.
+3. A .csv file for each pond is used to collect data, labeled [big.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/southside/big.csv) and [small.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/southside/small.csv) respectfully.
 
 4. That data gets uploaded to this repo and [notes](/pages/wetlands_timeline), if any.
 
