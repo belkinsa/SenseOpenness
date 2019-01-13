@@ -90,7 +90,11 @@ Nothing can be said about the big pond, I think it's stable even though there is
 
 Like the small pond, I think it's stable even though there is duckweed in the pond.
 
-### Other Notes
+## Other Notes
+
+###What I Learned
+
+I did research on who within the USA Government does wetlands work and how they classify the two ponds.
 
 #### USA Government Services
 
@@ -98,7 +102,7 @@ Like the small pond, I think it's stable even though there is duckweed in the po
 
 - [USDA Natural Resources Consevrvation Service](https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/) has a [National Wetland Plant List (NWPL)](http://wetland_plants.usace.army.mil/)
 
-#### Grailville
+##### Grailville
 
 - Based on the NWI both ponds are classified as a PUBgh (**1**) and is a freshwater pond but the little is 1.33 arces and the big is 1.53 arces. There is also a freshwater emegrent wetland that is a PEM1Ch (**2**), 0.90 arce wetland.
 
@@ -148,6 +152,18 @@ See code for **P** above.
 
 The pH levels are stable in both ponds but it's hard to say if the levels are stable since these are once a week data point, at almost the same time, collections not 24/7 sensor collection.
 
-### Other Notes
+## Other Notes
 
 I realized my mistake on how I formatted the date data and fixed into week number, yy instead of mm,dd,yy. I used LibreOffice Calc to convert the date into week number based on the year and concatenating the year to 20yy, as I only had it in the two digit format. Function used: ```=WEEKNUM(DATE(CONCATENATE(20,D2),A2,B2))```
+
+###What I Learned
+
+####During the Data Collection Seasons
+
+The final data collection season ended on the last week of October of 2018 and I learned  that using peat moss does not allow growth of native plants. If I had an extra season or two, the next step of the experiment would of been to plant the yarrow and comfrey in the fall before and winter them for 2019.
+
+####Open Science
+
+The reason why chose to do this project is I have the permission to upload the data and my work to the public domain. In return, I learned how to structure the [repo](https://github.com/belkinsa/GrailvilleWetlands) on GitHub and here, how format a .csv file, and what organizations are doing wetlands work in the realm of Open Science.
+
+I'm still working on this project, mostly data processing and research, and I will add my findings under the year that I did the work in.
