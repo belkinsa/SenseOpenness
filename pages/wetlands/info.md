@@ -48,7 +48,7 @@ From the [initiatives](http://www.grailville.org/green-grailville/initiatives/) 
 
 3. A .csv file for each pond is used to collect data, labeled [big.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/southside/big.csv) and [small.csv](https://github.com/belkinsa/GrailvilleWetlands/blob/master/dataanalysis/data/southside/small.csv) respectfully.
 
-4. That data gets uploaded to this repo and [notes](/pages/wetlands_timeline), if any.
+4. That data gets uploaded to this repo and [notes](/wetlands/timeline), if any.
 
 ## During the off season
 
