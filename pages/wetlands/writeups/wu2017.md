@@ -44,7 +44,7 @@ Like last year, the phosphate levels stayed down at 0 ppm.
 
 ## Both Ponds
 
-While I'm aware that the number of sample per year don't match, I still think the pH is slowly raising but not to a dangous level as this grahpic shows:
+While I'm aware that the number of sample per year don't match, I still think the pH is slowly raising but not to a dangerous level as this graphic shows:
 
 ![](http://www.fondriest.com/environmental-measurements/wp-content/uploads/2013/11/ph_levels.jpg)
 

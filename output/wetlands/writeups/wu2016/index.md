@@ -22,7 +22,7 @@ In the beginning of my data collection, I noted that Ammonia was at 0.25 parts p
 
 ## Small Pond
 
-In the beginning of my data collection, I noted that Ammonia was at 0.25 ppm in the small pond for eight (8) weeks. Near the end of the season, the Phosphate levels peaked at two (2) ppm but within two weeks, it went back down to zero (0). The pH levels ranged from 6 to 7.5, mostly the 7 to 7.5 range with a week of 6 and two (2) with 6.5. Luckly the Nitrite levels stayed at zero (0) ppm.
+In the beginning of my data collection, I noted that Ammonia was at 0.25 ppm in the small pond for eight (8) weeks. Near the end of the season, the Phosphate levels peaked at two (2) ppm but within two weeks, it went back down to zero (0). The pH levels ranged from 6 to 7.5, mostly the 7 to 7.5 range with a week of 6 and two (2) with 6.5. Luckily the Nitrite levels stayed at zero (0) ppm.
 
 # Conclusions
 
@@ -36,6 +36,6 @@ I have no explaination to the Ammonia levels in the small pond in the summer mon
 
 ## Other Notes
 
-I found out that LirbeOffice handles .csv files better than Microsoft Office. I also did not think on how to format when I started to data collect the .csv file in terms of formating the date as a three colum seprated entry instead of a simple mm-dd-yy format. If I did the date in the correct format, I would of had charts to show, either from LibreOffice or from R. Because of this, there are no charts for this write-up. Plus, most of the deviations from 7 pH and zero (0) ppm respectfully of the values measured will show correlation with weather, mostly when it rains, and other factors, like the cattle being moved away from the big pond.
+I found out that LirbeOffice handles .csv files better than Microsoft Office. I also did not think on how to format when I started to data collect the .csv file in terms of formatting the date as a three column separated entry instead of a simple mm-dd-yy format. If I did the date in the correct format, I would of had charts to show, either from LibreOffice or from R. Because of this, there are no charts for this write-up. Plus, most of the deviations from 7 pH and zero (0) ppm respectfully of the values measured will show correlation with weather, mostly when it rains, and other factors, like the cattle being moved away from the big pond.
 
 Due to me getting a new job just as the data collection season ended and then a bad case of winter blues, I did not get to do that much research on solutions. Because of this, I think I will collect data for the first half of the season and work on figuring out what plants could be placed in the small pond (the big one will be untouched).
