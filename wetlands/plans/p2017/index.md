@@ -1,44 +1,16 @@
 <!--
-.. title: Plans
-.. slug: plans
-.. date: 2018-12-15 11:20:44 UTC-05:00
+.. title: p2017
+.. slug: p2017
+.. date: 2019-01-14 11:24:49 UTC-05:00
 .. tags: 
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 -->
+# Research Plan
 
-#2016
-
-## Fish
-
-Because it's becoming the end of the season, it's too late to add fish to the small pond.  That will be done next year.
-
-## Duckweed
-
-Since there is no fish in the pond, there is no way to clean up the duckweed without removing it manually.  The only idea is to "harvest" it, meaning that we (Grailville) offer those who wish to use it for cooking, feed, and fertilizer for free.
-
-## Muck
-
-Continue using the nibbers.  Try to get one in the middle of the pond, but away from the edge by the dock.
-
-## Plants
-
-Move them away from the edge.
-
-## Equipment Needed
-
-- Kayak
-- Pond aerator (need to be found)
-- Net
-- Nibbers
-
-#2017
-
-## Research Plan
-
-### Steps
+## Steps
 
 1. Research on **what** first...
 2. ...**why** next...
@@ -53,7 +25,7 @@ Understanding **what** first will allow me to understand **why** then **who** an
 
 The point is I feel that, from my very basic understanding of what a wetland is, I'm not getting anywhere near creating solutions for maintaining a pond organically.
 
-### What I know already
+## What I know already
 
 1. **What** are wetlands?
    - Natural
@@ -67,7 +39,7 @@ The point is I feel that, from my very basic understanding of what a wetland is,
 5. (**Who,What**)[Urban Rivers](http://urbanriv.org/) and their floats and system
 6. (**What**)Basic Chemistry
 
-### What I want know (in the same order as above)
+## What I want know (in the same order as above)
 
 1. (**What**)Differences between the two types of wetlands
 2. (**What**)Keystone and interactions
@@ -76,64 +48,32 @@ The point is I feel that, from my very basic understanding of what a wetland is,
 5. (**Who,How**)Would their idea worth to use in wetlands
 6. (**What,Why**)More in depth and why it works when it's works
 
-## Fish
+# Fish
 
 Just a suggestion at this time:
 
 A combination of koi and grass carp should work.  The koi can go at the duckweed while the carp can go at the other things in the pond.
 
-## Plants
+# Plants
 
 Mary Lu will start the plants in pots before they will be placed in the ponds, these are:
 
 - Daylilies
-- ???
-- ???
-- ???
+- and other plants
 
 And try to get them in the middle of the pond.
 
-## Duckweed
+# Duckweed
 
 Try to do the same like in 2016.
 
-## Muck
+# Muck
 
 Use nibbers like in 2016.
 
-## Equipment Needed
+# Equipment Needed
 
 - Kayak
 - Pond aerator (need to be found)
 - Net
-- Nibblers
-
-#2018
-
-## Fish
-
-N/A
-
-## Plants
-
-One possible experiment could be having the small rafts just have pots with soil and fiber and allow the aquatic plants to live for a season.
-
-## Duckweed
-
-Try to find the source of the pollution rather than removing the duckweed. **Rationale:** Duckweed thrives on unhealthy ponds.
-
-## Pond Aeration
-
-Try to remove the aerator from the big pond and place it in the small pond. **Rationale:** As said above, a possible source of pollution is the lack of dissolved oxygen.
-
-**03/01/18:** Found out that the aerator is broken, nothing can be done.
-
-## Muck
-
-Use nibblers like in 2016 and 2017.
-
-## Equipment Needed
-
-- Kayak
-- Rafts
 - Nibblers
