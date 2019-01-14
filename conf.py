@@ -136,7 +136,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("blog", "Blog"),
 	("/categories/", "Categories"),
-    ("/wetlands/", "Wetlands Index"),
+    ("/wetlands/", "Grailville Wetlands Project"),
     ("/programs-that-i-use/", "Progams Used"),
     ),
 }
