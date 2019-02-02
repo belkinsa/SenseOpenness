@@ -12,6 +12,6 @@ These set of pages contain the plan for each year that the project was worked on
 
 #Table of Contents
 
-- [2016](/pages/wetlands/plans/p2016)
-- [2017](/pages/wetlands/plans/p2017)
-- [2018](/pages/wetlands/plans/p2018)
+- [2016](/wetlands/plans/p2016)
+- [2017](/wetlands/plans/p2017)
+- [2018](/wetlands/plans/p2018)

@@ -12,6 +12,6 @@ These set of pages contain the write-up for each year that the project was worke
 
 #Table of Contents
 
-- [2016](/pages/wetlands/writeups/wu2016)
-- [2017](/pages/wetlands/writeups/wu2017)
-- [2018](/pages/wetlands/writeups/wu2018)
+- [2016](/wetlands/writeups/wu2016)
+- [2017](/wetlands/writeups/wu2017)
+- [2018](/wetlands/writeups/wu2018)
