@@ -35,7 +35,7 @@ Installation was much easier after [Ubports](https://ubports.com/) took over the
 
 ##System
 
-Overall, it's a nice and stable system. I don't see any major changes from when I last used it. The only bad thing is that the Weather app doesn't work outside the box. You will have to update it from the Ubuntu Open Store.
+Overall, it's a nice and stable system. I don't see any major changes from when I last used it. The one thing that I love is the fact you can respond to messages from the indicator menu. The only bad thing is that the Weather app doesn't work outside the box. You will have to update it from the Ubuntu Open Store.
 
 #Apps
 
