@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1550099468.197383
+_modified_time = 1550100268.680081
 _enable_loop = True
 _template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/bootstrap3/templates/base.tmpl'
 _template_uri = u'base.tmpl'
@@ -96,7 +96,7 @@ def render_body(context,**pageargs):
             __M_writer(u'                <span id="blog-title">')
             __M_writer(filters.html_escape(unicode(blog_title)))
             __M_writer(u'</span>\n')
-        __M_writer(u'            </a>\n        </div><!-- /.navbar-header -->\n        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">\n            <ul class="nav navbar-nav">\n                ')
+        __M_writer(u'            </a>\n        </div><!-- /.navbar-header -->\n        <div class="collapse navbar-collapse" id="bs-navbar" role="navigation" aria-expanded="false">\n            <ul class="nav navbar-nav">\n                ')
         __M_writer(unicode(base.html_navigation_links()))
         __M_writer(u'\n                ')
         __M_writer(unicode(template_hooks['menu']()))
