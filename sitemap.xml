@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/archive.html</loc>
-  <lastmod>2019-02-13T22:51:00Z</lastmod>
+  <lastmod>2019-02-13T23:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/</loc>
@@ -34,20 +34,12 @@
   <lastmod>2019-01-07T15:00:00Z</lastmod>
  </url>
  <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/blog/are-there-any-methodologies-within-citizen-science/</loc>
-  <lastmod>2019-02-06T23:08:00Z</lastmod>
- </url>
- <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</loc>
   <lastmod>2019-02-02T16:36:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/blast-in-the-past-2/</loc>
   <lastmod>2019-01-07T15:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/blog/community-infrastructure/</loc>
-  <lastmod>2019-02-13T01:57:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/december-2018-update/</loc>
@@ -59,7 +51,7 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/index-1.html</loc>
-  <lastmod>2019-02-13T22:51:00Z</lastmod>
+  <lastmod>2019-02-13T23:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/media-pc/</loc>
@@ -95,11 +87,7 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/</loc>
-  <lastmod>2019-02-13T01:57:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_community/</loc>
-  <lastmod>2019-02-13T01:57:00Z</lastmod>
+  <lastmod>2019-02-13T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_news/</loc>
@@ -108,10 +96,6 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_off-topic/</loc>
   <lastmod>2019-01-07T15:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_open-science/</loc>
-  <lastmod>2019-02-06T23:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_open-source/</loc>
@@ -155,19 +139,11 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/</loc>
-  <lastmod>2019-02-13T22:51:00Z</lastmod>
+  <lastmod>2019-02-13T23:11:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/data/</loc>
   <lastmod>2019-02-13T22:51:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/experiments/</loc>
-  <lastmod>2019-01-07T15:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/info/</loc>
-  <lastmod>2019-01-07T15:00:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/p2016/</loc>
@@ -188,21 +164,5 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/wetlands/timeline/</loc>
   <lastmod>2019-01-07T15:00:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/writeups/writeups/</loc>
-  <lastmod>2019-01-14T16:14:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/writeups/wu2016/</loc>
-  <lastmod>2019-01-14T16:23:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/writeups/wu2017/</loc>
-  <lastmod>2019-01-14T16:23:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/writeups/wu2018/</loc>
-  <lastmod>2019-01-14T16:23:00Z</lastmod>
  </url>
 </urlset>
