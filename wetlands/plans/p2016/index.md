@@ -18,7 +18,7 @@ Since there is no fish in the pond, there is no way to clean up the duckweed wit
 
 # Muck
 
-Continue using the nibbers.  Try to get one in the middle of the pond, but away from the edge by the dock.
+Continue using the nibblers.  Try to get one in the middle of the pond, but away from the edge by the dock.
 
 # Plants
 
@@ -29,4 +29,4 @@ Move them away from the edge.
 - Kayak
 - Pond aerator (need to be found)
 - Net
-- Nibbers
+- Nibblers
