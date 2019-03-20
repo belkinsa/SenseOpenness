@@ -2,8 +2,8 @@
 .. title: December 2018 Update
 .. slug: december-2018-update
 .. date: 2018-12-11 20:18:20 UTC-05:00
-.. tags:
-.. category: News
+.. tags: News, Lessons Learned, Nikola
+.. category: 
 .. link: 
 .. description: 
 .. type: text

@@ -2,8 +2,8 @@
 .. title: ReText Review
 .. slug: retext-review
 .. date: 2018-03-25 11:19:55 UTC-04:00
-.. tags:
-.. category: Open Source
+.. tags: Programs Used, ReText, Review
+.. category:
 .. link: 
 .. description: 
 .. type: text

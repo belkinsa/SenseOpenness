@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about Open Source)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/cat_open-source.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Wed, 13 Feb 2019 23:24:30 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Back to Ubuntu Touch!</title><link>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Over the last month, I thought about buying a new phone and the thought process was this:&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about Review)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/review.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Mar 2019 17:24:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Back to Ubuntu Touch!</title><link>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Over the last month, I thought about buying a new phone and the thought process was this:&lt;/p&gt;
 &lt;p&gt;The phone must be/have:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;A non-Samsung or iPhone&lt;/strong&gt; While they are best of the best, they are just over advertised. Plus, they cost above my pay rate.&lt;/li&gt;
@@ -28,7 +28,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Other&lt;/h2&gt;
 &lt;p&gt;My lockscreen looks like this:&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/SwitchingUbuntuTouch/HomeScreen.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</guid><pubDate>Sat, 26 Jan 2019 18:33:55 GMT</pubDate></item><item><title>Ubuntu 18.04 LTS Review</title><link>https://belkinsa.github.io/SenseOpenness/blog/ubuntu-1804-lts-review/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Resisting change can be a blessing and a cruse and resisting changing to Ubuntu 18.04 LTS is a cruse. While I'm sad that I leaving Unity behind, due to some issues on 16.04 LTS, I'm glad that I decided to switch. Though I do miss Unity.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/SwitchingUbuntuTouch/HomeScreen.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Review</category><category>Ubuntu</category><category>Ubuntu Touch</category><guid>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</guid><pubDate>Sat, 26 Jan 2019 18:33:55 GMT</pubDate></item><item><title>Ubuntu 18.04 LTS Review</title><link>https://belkinsa.github.io/SenseOpenness/blog/ubuntu-1804-lts-review/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Resisting change can be a blessing and a cruse and resisting changing to Ubuntu 18.04 LTS is a cruse. While I'm sad that I leaving Unity behind, due to some issues on 16.04 LTS, I'm glad that I decided to switch. Though I do miss Unity.&lt;/p&gt;
 &lt;p&gt;I decided to do a minimal install instead of a full one because there are many programs that I do need.  I only need Firefox, PDF Reader,video player, and the core system programs. The rest of the programs that I need, including ReText and the System76 drivers, aren't included in the full install. Over the last years, I noticed that I don't use LibreOffice or the music player.&lt;/p&gt;
 &lt;h2&gt;The Good&lt;/h2&gt;
 &lt;ul&gt;
@@ -43,7 +43,7 @@
 &lt;/ul&gt;
 &lt;h2&gt;Screenshots&lt;/h2&gt;
 &lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/neofetch.png"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/desktop.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/ubuntu-1804-lts-review/</guid><pubDate>Sun, 13 May 2018 21:53:41 GMT</pubDate></item><item><title>ReText Review</title><link>https://belkinsa.github.io/SenseOpenness/blog/retext-review/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/desktop.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Review</category><category>Ubuntu</category><guid>https://belkinsa.github.io/SenseOpenness/blog/ubuntu-1804-lts-review/</guid><pubDate>Sun, 13 May 2018 21:53:41 GMT</pubDate></item><item><title>ReText Review</title><link>https://belkinsa.github.io/SenseOpenness/blog/retext-review/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;h2&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;As I said in the &lt;a href="https://belkinsa.github.io/SenseOpenness/posts/why-plaintext/"&gt;last post&lt;/a&gt;, I found a great Markdown editor called &lt;a href="https://github.com/ReText-project/ReText"&gt;ReText&lt;/a&gt;. I decided to write a review on the program, but for that, I wanted to show what preferences I have on.  I'm not sure if those would effect the review.&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://belkinsa.github.io/SenseOpenness/images/reTextPreferencesB.png"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://belkinsa.github.io/SenseOpenness/images/reTextPreferencesE.png"&gt;&lt;/p&gt;
@@ -118,55 +118,4 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Overall, I'm giving ReText a 9/10 because the features and the performance wins out over the UX.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/retext-review/</guid><pubDate>Sun, 25 Mar 2018 15:19:55 GMT</pubDate></item><item><title>Why Plain Text?</title><link>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Two weeks ago, I saw a &lt;a href="https://twitter.com/jrgifford/status/968136838706810882"&gt;tweet&lt;/a&gt; about plain text productivity and like what James Gifford said, it is a "really interesting idea". This tweet stuck out me not for the productivity side of things but in terms of workflow. I ditched hierarchical note taking programs (KeepNote and Cherry Tree as examples) because I noticed that I never really used them and I was over complicating things. But the one thing that stayed with me is the use of Plain Text, A.K.A writing in Markdown. Why?&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Can be used everywhere- only need a text editor&lt;/li&gt;
-&lt;li&gt;Can still have formating via markup languages&lt;/li&gt;
-&lt;li&gt;Small file size&lt;/li&gt;
-&lt;li&gt;Copy and pasting is easier because the formating is lost in Plain Text&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;And these pros win over the two cons that I can name:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Can't really do the classic outline formating.  The closest that I have is this (with spaces between the lines):&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;h2&gt;Header 1&lt;/h2&gt;
-&lt;h3&gt;Header 2&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;Ordered Item 1&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;(Tab or four (4) lines) Unordered Item 2&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Example:&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://belkinsa.github.io/SenseOpenness/images/OutlineinMarkdown.png"&gt;&lt;/p&gt;
-&lt;p&gt;This outline system allows you to write content without using classic outlining formating if you want to write longer items for each points without making it hard to read.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The need for a previewer for markup languages&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Recently I found a Markdown editor/live previewer called &lt;a href="https://github.com/ReText-project/ReText"&gt;ReText&lt;/a&gt; which, to me, is better than GitHub's Atom or QOwnNotes. &lt;/p&gt;
-&lt;p&gt;The reason, over Atom, is ReText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, ReText is not a hierarchical note taking program.&lt;/p&gt;
-&lt;p&gt;This is how I draft in Markdown in ReText:
-&lt;img src="https://belkinsa.github.io/SenseOpenness/images/DraftingMarkdown.png"&gt;&lt;/p&gt;
-&lt;p&gt;It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;EDIT TO ADD:&lt;/strong&gt; I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</guid><pubDate>Sun, 11 Mar 2018 18:46:17 GMT</pubDate></item><item><title>Why Nikola</title><link>https://belkinsa.github.io/SenseOpenness/blog/why-nikola/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;As I stated previously, I switched from WordPress to Nikola for hosting my blog. Here, I want to explain more in depth on why Nikola is, to me, the best choice for a static generator.&lt;/p&gt;
-&lt;h2&gt;Over WordPress&lt;/h2&gt;
-&lt;p&gt;Over that year when my blog was down, I think WordPress made some changes with their WordPress importer and I wasn't able to import from my backup file that I had. That's one reason there. I can list the other reasons along with the &lt;a href="https://getnikola.com/features/index.html"&gt;reasons&lt;/a&gt; stated on the Nikola's official site:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;There is a built-in way to write in Markdown and have it phrased.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;A text editor of your own choice is used. Some times that is better than the web based editor.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The files are stored locally and on a server.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub/GitHub Pages/GitLab can be used to host.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The themes are better becuase they don't have the side bar on the left-hand side.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Over Jekyll&lt;/h2&gt;
-&lt;p&gt;I also considered using Jekyll, but I found it harder to use as a first time user of Jekyll and also for static site generators. Also &lt;strong&gt;(I think)&lt;/strong&gt;, your file formats for posts must be in a certain way.&lt;/p&gt;&lt;/div&gt;</description><guid>https://belkinsa.github.io/SenseOpenness/blog/why-nikola/</guid><pubDate>Mon, 15 Jan 2018 19:51:13 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Overall, I'm giving ReText a 9/10 because the features and the performance wins out over the UX.&lt;/p&gt;&lt;/div&gt;</description><category>Programs Used</category><category>ReText</category><category>Review</category><guid>https://belkinsa.github.io/SenseOpenness/blog/retext-review/</guid><pubDate>Sun, 25 Mar 2018 15:19:55 GMT</pubDate></item></channel></rss>

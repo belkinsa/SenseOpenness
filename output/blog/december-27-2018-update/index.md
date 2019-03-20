@@ -2,8 +2,8 @@
 .. title: December 27, 2018 Update
 .. slug: december-27-2018-update
 .. date: 2018-12-27 11:51:26 UTC-05:00
-.. tags: 
-.. category: News
+.. tags: News, Grailville Wetlands
+.. category:
 .. link: 
 .. description: 
 .. type: text
