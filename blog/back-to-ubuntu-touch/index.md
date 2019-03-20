@@ -2,8 +2,8 @@
 .. title: Back to Ubuntu Touch!
 .. slug: back-to-ubuntu-touch
 .. date: 2019-01-26 13:33:55 UTC-05:00
-.. tags: 
-.. category: Open Source
+.. tags: Ubuntu Touch, Ubuntu, Review
+.. category:
 .. link: 
 .. description: 
 .. type: text

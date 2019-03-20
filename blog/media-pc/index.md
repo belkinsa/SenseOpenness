@@ -2,8 +2,8 @@
 .. title: Media PC
 .. slug: media-pc
 .. date: 2019-01-07 12:19:52 UTC-05:00
-.. tags: 
-.. category: Off-topic
+.. tags: Off-topic, Ubuntu
+.. category: 
 .. link: 
 .. description: 
 .. type: text

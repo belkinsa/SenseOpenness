@@ -2,8 +2,8 @@
 .. title: Blast in the Past 2
 .. slug: blast-in-the-past-2
 .. date: 2018-03-19 10:28:41 UTC-04:00
-.. tags:
-.. category: Off-topic
+.. tags: Off-topic
+.. category:
 .. link: 
 .. description: 
 .. type: text

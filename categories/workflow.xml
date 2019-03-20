@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about Workflow)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/workflow.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Mar 2019 17:24:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Why Plain Text?</title><link>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Two weeks ago, I saw a &lt;a href="https://twitter.com/jrgifford/status/968136838706810882"&gt;tweet&lt;/a&gt; about plain text productivity and like what James Gifford said, it is a "really interesting idea". This tweet stuck out me not for the productivity side of things but in terms of workflow. I ditched hierarchical note taking programs (KeepNote and Cherry Tree as examples) because I noticed that I never really used them and I was over complicating things. But the one thing that stayed with me is the use of Plain Text, A.K.A writing in Markdown. Why?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can be used everywhere- only need a text editor&lt;/li&gt;
+&lt;li&gt;Can still have formating via markup languages&lt;/li&gt;
+&lt;li&gt;Small file size&lt;/li&gt;
+&lt;li&gt;Copy and pasting is easier because the formating is lost in Plain Text&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And these pros win over the two cons that I can name:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Can't really do the classic outline formating.  The closest that I have is this (with spaces between the lines):&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h2&gt;Header 1&lt;/h2&gt;
+&lt;h3&gt;Header 2&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ordered Item 1&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;(Tab or four (4) lines) Unordered Item 2&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://belkinsa.github.io/SenseOpenness/images/OutlineinMarkdown.png"&gt;&lt;/p&gt;
+&lt;p&gt;This outline system allows you to write content without using classic outlining formating if you want to write longer items for each points without making it hard to read.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The need for a previewer for markup languages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recently I found a Markdown editor/live previewer called &lt;a href="https://github.com/ReText-project/ReText"&gt;ReText&lt;/a&gt; which, to me, is better than GitHub's Atom or QOwnNotes. &lt;/p&gt;
+&lt;p&gt;The reason, over Atom, is ReText dedicated for Markdown but you can still open other plain text files.  Atom is also really meant for developers. Over QOwnNotes, ReText is not a hierarchical note taking program.&lt;/p&gt;
+&lt;p&gt;This is how I draft in Markdown in ReText:
+&lt;img src="https://belkinsa.github.io/SenseOpenness/images/DraftingMarkdown.png"&gt;&lt;/p&gt;
+&lt;p&gt;It seems that working in the Open is allowing me to think in different ways of how to do thing and this is one example.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EDIT TO ADD:&lt;/strong&gt; I forgot to talk about  that Plain Text formats don't change over versions of programs and the formats are mostly Open.&lt;/p&gt;&lt;/div&gt;</description><category>Workflow</category><guid>https://belkinsa.github.io/SenseOpenness/blog/why-plaintext/</guid><pubDate>Sun, 11 Mar 2018 18:46:17 GMT</pubDate></item></channel></rss>

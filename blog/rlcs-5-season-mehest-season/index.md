@@ -2,8 +2,8 @@
 .. title: RLCS 5 Season = Mehest Season
 .. slug: rlcs-5-season-mehest-season
 .. date: 2018-04-23 19:40:32 UTC-04:00
-.. tags:
-.. category: Off-topic 
+.. tags: Off-topic, Rocket League
+.. category:  
 .. link: 
 .. description: 
 .. type: text

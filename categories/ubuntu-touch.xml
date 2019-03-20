@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Sense of Openness (Posts about Ubuntu Touch)</title><link>https://belkinsa.github.io/SenseOpenness/</link><description></description><atom:link href="https://belkinsa.github.io/SenseOpenness/categories/ubuntu-touch.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><copyright>Contents © 2019 &lt;a href="mailto:belkinsa@ubuntu.com"&gt;Svetlana Belkin&lt;/a&gt; </copyright><lastBuildDate>Wed, 20 Mar 2019 17:24:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Back to Ubuntu Touch!</title><link>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</link><dc:creator>Svetlana Belkin</dc:creator><description>&lt;div&gt;&lt;p&gt;Over the last month, I thought about buying a new phone and the thought process was this:&lt;/p&gt;
+&lt;p&gt;The phone must be/have:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;A non-Samsung or iPhone&lt;/strong&gt; While they are best of the best, they are just over advertised. Plus, they cost above my pay rate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy, please&lt;/strong&gt; It's something that we have, as a whole, thrown away. Also, that FaceTime bug is scary.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It needs to be simple&lt;/strong&gt; I'm still leaning on using my computer for my work. I only use my phone to make calls, text, and check my e-mail and Twitter.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;It needs to be rootable&lt;/strong&gt; What if I want to switch back to Android? Plus, how would I of switched to Ubuntu Touch in the first place? If I were to switch back to Android, I would use the stock ROM- no need for bloat-ware.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I decided to buy a Nexus 5 and put Ubuntu Touch on it. I used to have a Nexus 4, but it was water damaged. I bought it because I wanted a bigger screen although I think based on the usage, the Nexus 4 would of worked.&lt;/p&gt;
+&lt;h2&gt;Review&lt;/h2&gt;
+&lt;p&gt;I don't recall if I wrote a proper review on Ubuntu Touch, but I will here. Like as I said I don't really use my phone and I will not be reviewing the convergence part.&lt;/p&gt;
+&lt;h3&gt;Installation&lt;/h3&gt;
+&lt;p&gt;Installation was much easier after &lt;a href="https://ubports.com/"&gt;Ubports&lt;/a&gt; took over the project because they added a GUI method to flashing Ubuntu Touch on devices. The the only problem that I found is that Nexus 5 wasn't found automatically. Luckily, the installer has a manual selection.&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/SwitchingUbuntuTouch/UbportsMainScreen.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/SwitchingUbuntuTouch/UbportsSuccessScreen.png"&gt;&lt;/p&gt;
+&lt;h3&gt;System&lt;/h3&gt;
+&lt;p&gt;Overall, it's a nice and stable system. I don't see any major changes from when I last used it. The one thing that I love is the fact you can respond to messages from the indicator menu. The only bad thing is that the Weather app doesn't work outside the box. You will have to update it from the Ubuntu Open Store.&lt;/p&gt;
+&lt;h2&gt;Apps&lt;/h2&gt;
+&lt;p&gt;The Apps I have on my Ubuntu Touch are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Base, pre-installed apps minus Notes&lt;/strong&gt; I don't use Evernote but I may need a basic noting taking app. The others are needed for everyday life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://open-store.io/app/activescreen.mivoligo"&gt;Active Screen&lt;/a&gt;&lt;/strong&gt; It replaces the "always on while charging" setting from Android. I may have use for it, but I don't yet.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://open-store.io/app/circle-message.mivoligo"&gt;Circle Message&lt;/a&gt;&lt;/strong&gt; It's there for motivation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Morph Browser&lt;/strong&gt; While it's one of the base, pre-installed apps, it the most powerful app on the Ubuntu Touch. Most of the apps that I used on my Samsung Galaxy Edge are web-based apps, such as Twitter and e-mail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://open-store.io/app/talaan.kugiigi"&gt;Talaan&lt;/a&gt;&lt;/strong&gt; It's a pretty good check-list app.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="https://open-store.io/app/ut-tweak-tool.sverzegnassi"&gt;UT Tweak Tool&lt;/a&gt;&lt;/strong&gt; Because there are some settings that aren't found the system settings, such as turning off the launcher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Other&lt;/h2&gt;
+&lt;p&gt;My lockscreen looks like this:&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" src="https://belkinsa.github.io/SenseOpenness/images/SwitchingUbuntuTouch/HomeScreen.png"&gt;&lt;/p&gt;&lt;/div&gt;</description><category>Review</category><category>Ubuntu</category><category>Ubuntu Touch</category><guid>https://belkinsa.github.io/SenseOpenness/blog/back-to-ubuntu-touch/</guid><pubDate>Sat, 26 Jan 2019 18:33:55 GMT</pubDate></item></channel></rss>
