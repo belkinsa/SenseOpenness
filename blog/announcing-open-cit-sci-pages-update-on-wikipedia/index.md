@@ -2,7 +2,7 @@
 .. title: Announcing Open Cit Sci Pages Update On Wikipedia
 .. slug: announcing-open-cit-sci-pages-update-on-wikipedia
 .. date: 2019-04-03 13:26:48 UTC-04:00
-.. tags: Wikipedia, Open Science, Citizen Science, Project, Roadmap
+.. tags: Wikipedia, Open Science, Citizen Science, Project, Roadmap, News
 .. category: 
 .. link: 
 .. description: 
