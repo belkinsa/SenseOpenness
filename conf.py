@@ -135,10 +135,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
 	("blog", "Blog"),
-	("/categories/", "Tags"),
-    ("/wetlands/", "Grailville Wetlands Project"),
-    ("/programs-that-i-use/", "Progams Used"),
-    ("/personal-links/", "Personal Links"),
+	("/categories/", "Categories"),
     ("https://senseopenness.com/rss.xml", "RSS Feed"),
     ),
 }

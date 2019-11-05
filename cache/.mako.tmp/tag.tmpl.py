@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556709168.498001
+_modified_time = 1572955308.789994
 _enable_loop = True
-_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/tag.tmpl'
+_template_filename = u'/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/tag.tmpl'
 _template_uri = u'tag.tmpl'
 _source_encoding = 'utf-8'
 _exports = [u'content', u'extra_head']
@@ -146,6 +146,6 @@ def render_extra_head(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"137": 5, "138": 6, "139": 6, "140": 7, "141": 7, "147": 141, "23": 3, "29": 0, "49": 2, "50": 3, "55": 8, "60": 39, "66": 11, "82": 11, "83": 14, "84": 14, "85": 15, "86": 16, "87": 16, "88": 16, "89": 18, "90": 19, "91": 19, "92": 19, "93": 21, "94": 22, "95": 22, "96": 22, "97": 22, "98": 22, "99": 24, "100": 26, "101": 27, "102": 27, "103": 29, "104": 29, "105": 31, "106": 32, "107": 33, "108": 34, "109": 34, "110": 34, "111": 34, "112": 34, "113": 34, "114": 34, "115": 34, "116": 34, "117": 34, "118": 34, "119": 36, "120": 38, "126": 5}, "uri": "tag.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/tag.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"137": 5, "138": 6, "139": 6, "140": 7, "141": 7, "147": 141, "23": 3, "29": 0, "49": 2, "50": 3, "55": 8, "60": 39, "66": 11, "82": 11, "83": 14, "84": 14, "85": 15, "86": 16, "87": 16, "88": 16, "89": 18, "90": 19, "91": 19, "92": 19, "93": 21, "94": 22, "95": 22, "96": 22, "97": 22, "98": 22, "99": 24, "100": 26, "101": 27, "102": 27, "103": 29, "104": 29, "105": 31, "106": 32, "107": 33, "108": 34, "109": 34, "110": 34, "111": 34, "112": 34, "113": 34, "114": 34, "115": 34, "116": 34, "117": 34, "118": 34, "119": 36, "120": 38, "126": 5}, "uri": "tag.tmpl", "filename": "/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/tag.tmpl"}
 __M_END_METADATA
 """

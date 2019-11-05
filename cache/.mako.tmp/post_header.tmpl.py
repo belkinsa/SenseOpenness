@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556709168.638224
+_modified_time = 1572955308.928773
 _enable_loop = True
-_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/post_header.tmpl'
+_template_filename = u'/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/post_header.tmpl'
 _template_uri = u'post_header.tmpl'
 _source_encoding = 'utf-8'
 _exports = ['html_post_header', 'html_title', 'html_translations', 'html_sourcelink']
@@ -170,6 +170,6 @@ def render_html_sourcelink(context):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"132": 11, "133": 12, "134": 13, "135": 14, "136": 14, "137": 15, "138": 16, "139": 17, "140": 17, "141": 17, "142": 17, "143": 17, "144": 17, "145": 17, "146": 20, "23": 3, "152": 24, "26": 2, "29": 0, "159": 24, "160": 25, "161": 26, "34": 2, "35": 3, "36": 9, "37": 22, "38": 28, "39": 52, "171": 165, "45": 30, "164": 26, "162": 26, "163": 26, "62": 30, "63": 32, "64": 32, "65": 35, "66": 36, "67": 36, "68": 36, "69": 36, "70": 36, "71": 37, "72": 38, "73": 38, "74": 38, "75": 40, "76": 41, "77": 41, "78": 41, "79": 41, "80": 41, "81": 41, "82": 41, "83": 41, "84": 42, "85": 43, "86": 43, "87": 43, "88": 45, "89": 45, "90": 45, "91": 46, "92": 47, "93": 47, "94": 47, "95": 47, "96": 47, "97": 49, "98": 50, "99": 50, "165": 26, "105": 5, "111": 5, "112": 6, "113": 7, "114": 7, "115": 7, "116": 7, "117": 7, "123": 11}, "uri": "post_header.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/post_header.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"132": 11, "133": 12, "134": 13, "135": 14, "136": 14, "137": 15, "138": 16, "139": 17, "140": 17, "141": 17, "142": 17, "143": 17, "144": 17, "145": 17, "146": 20, "23": 3, "152": 24, "26": 2, "29": 0, "159": 24, "160": 25, "161": 26, "34": 2, "35": 3, "36": 9, "37": 22, "38": 28, "39": 52, "171": 165, "45": 30, "164": 26, "162": 26, "163": 26, "62": 30, "63": 32, "64": 32, "65": 35, "66": 36, "67": 36, "68": 36, "69": 36, "70": 36, "71": 37, "72": 38, "73": 38, "74": 38, "75": 40, "76": 41, "77": 41, "78": 41, "79": 41, "80": 41, "81": 41, "82": 41, "83": 41, "84": 42, "85": 43, "86": 43, "87": 43, "88": 45, "89": 45, "90": 45, "91": 46, "92": 47, "93": 47, "94": 47, "95": 47, "96": 47, "97": 49, "98": 50, "99": 50, "165": 26, "105": 5, "111": 5, "112": 6, "113": 7, "114": 7, "115": 7, "116": 7, "117": 7, "123": 11}, "uri": "post_header.tmpl", "filename": "/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/post_header.tmpl"}
 __M_END_METADATA
 """

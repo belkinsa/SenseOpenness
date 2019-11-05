@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556709168.670973
+_modified_time = 1572955308.961231
 _enable_loop = True
-_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/story.tmpl'
+_template_filename = u'/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/story.tmpl'
 _template_uri = u'story.tmpl'
 _source_encoding = 'utf-8'
 _exports = [u'content']
@@ -102,6 +102,6 @@ def render_content(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"23": 3, "26": 4, "29": 2, "32": 5, "38": 0, "52": 2, "53": 3, "54": 4, "55": 5, "56": 6, "61": 25, "67": 8, "80": 8, "81": 9, "82": 9, "83": 11, "84": 11, "85": 12, "86": 12, "87": 15, "88": 15, "89": 17, "90": 18, "91": 19, "92": 19, "93": 20, "94": 20, "95": 23, "96": 23, "97": 23, "103": 97}, "uri": "story.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/base/templates/story.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"23": 3, "26": 4, "29": 2, "32": 5, "38": 0, "52": 2, "53": 3, "54": 4, "55": 5, "56": 6, "61": 25, "67": 8, "80": 8, "81": 9, "82": 9, "83": 11, "84": 11, "85": 12, "86": 12, "87": 15, "88": 15, "89": 17, "90": 18, "91": 19, "92": 19, "93": 20, "94": 20, "95": 23, "96": 23, "97": 23, "103": 97}, "uri": "story.tmpl", "filename": "/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/base/templates/story.tmpl"}
 __M_END_METADATA
 """

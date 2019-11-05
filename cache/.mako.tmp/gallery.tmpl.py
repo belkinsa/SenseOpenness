@@ -5,9 +5,9 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1556709168.69802
+_modified_time = 1572955308.985398
 _enable_loop = True
-_template_filename = u'/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/bootstrap3/templates/gallery.tmpl'
+_template_filename = u'/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/bootstrap3/templates/gallery.tmpl'
 _template_uri = u'gallery.tmpl'
 _source_encoding = 'utf-8'
 _exports = [u'content', u'sourcelink', u'extra_js', u'extra_head']
@@ -215,6 +215,6 @@ def render_extra_head(context,**pageargs):
 
 """
 __M_BEGIN_METADATA
-{"source_encoding": "utf-8", "line_map": {"128": 20, "129": 20, "130": 22, "131": 24, "132": 26, "133": 27, "134": 29, "135": 30, "136": 30, "137": 30, "138": 30, "139": 30, "140": 31, "141": 31, "142": 31, "143": 31, "144": 33, "145": 36, "146": 37, "147": 37, "23": 4, "153": 5, "26": 3, "32": 0, "166": 62, "210": 55, "176": 62, "177": 65, "178": 65, "179": 68, "180": 68, "186": 41, "65": 2, "66": 3, "67": 4, "72": 5, "201": 42, "202": 42, "203": 52, "204": 53, "77": 39, "206": 55, "205": 54, "208": 55, "209": 55, "82": 59, "87": 102, "216": 210, "207": 55, "93": 7, "200": 41, "111": 7, "112": 8, "113": 8, "114": 9, "115": 10, "116": 10, "117": 10, "118": 12, "119": 13, "120": 14, "121": 14, "122": 17, "123": 18, "124": 19, "125": 20, "126": 20, "127": 20}, "uri": "gallery.tmpl", "filename": "/home/svetlana/Documents/Blogs/nikola/local/lib/python2.7/site-packages/nikola/data/themes/bootstrap3/templates/gallery.tmpl"}
+{"source_encoding": "utf-8", "line_map": {"128": 20, "129": 20, "130": 22, "131": 24, "132": 26, "133": 27, "134": 29, "135": 30, "136": 30, "137": 30, "138": 30, "139": 30, "140": 31, "141": 31, "142": 31, "143": 31, "144": 33, "145": 36, "146": 37, "147": 37, "23": 4, "153": 5, "26": 3, "32": 0, "166": 62, "210": 55, "176": 62, "177": 65, "178": 65, "179": 68, "180": 68, "186": 41, "65": 2, "66": 3, "67": 4, "72": 5, "201": 42, "202": 42, "203": 52, "204": 53, "77": 39, "206": 55, "205": 54, "208": 55, "209": 55, "82": 59, "87": 102, "216": 210, "207": 55, "93": 7, "200": 41, "111": 7, "112": 8, "113": 8, "114": 9, "115": 10, "116": 10, "117": 10, "118": 12, "119": 13, "120": 14, "121": 14, "122": 17, "123": 18, "124": 19, "125": 20, "126": 20, "127": 20}, "uri": "gallery.tmpl", "filename": "/home/svetlana/.local/lib/python2.7/site-packages/nikola/data/themes/bootstrap3/templates/gallery.tmpl"}
 __M_END_METADATA
 """
