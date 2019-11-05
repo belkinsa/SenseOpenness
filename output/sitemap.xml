@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
+  <lastmod>2019-11-05T12:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/2017/</loc>
@@ -23,7 +23,7 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/archive.html</loc>
-  <lastmod>2019-11-05T12:01:00Z</lastmod>
+  <lastmod>2019-11-05T15:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/</loc>
@@ -55,7 +55,7 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/index-1.html</loc>
-  <lastmod>2019-11-05T12:01:00Z</lastmod>
+  <lastmod>2019-11-05T15:08:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/march-2018-update/</loc>
@@ -215,34 +215,6 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/programs-that-i-use/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/data/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/p2016/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/p2017/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/p2018/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/plans/plans/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
- </url>
- <url>
-  <loc>https://belkinsa.github.io/SenseOpenness/wetlands/timeline/</loc>
   <lastmod>2019-06-08T13:27:00Z</lastmod>
  </url>
 </urlset>
