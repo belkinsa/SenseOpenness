@@ -23,11 +23,11 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/archive.html</loc>
-  <lastmod>2019-11-05T15:08:00Z</lastmod>
+  <lastmod>2019-12-17T02:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
+  <lastmod>2019-12-17T02:43:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/and-we-are-back/</loc>
@@ -54,8 +54,12 @@
   <lastmod>2019-06-08T13:27:00Z</lastmod>
  </url>
  <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/blog/elementary-os-hera/</loc>
+  <lastmod>2019-12-17T02:43:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/index-1.html</loc>
-  <lastmod>2019-11-05T15:08:00Z</lastmod>
+  <lastmod>2019-12-17T02:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/blog/march-2018-update/</loc>
@@ -99,7 +103,15 @@
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/</loc>
-  <lastmod>2019-06-08T13:27:00Z</lastmod>
+  <lastmod>2019-12-17T02:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_blog/</loc>
+  <lastmod>2019-12-17T02:03:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/categories/cat_sense-of-freedom/</loc>
+  <lastmod>2019-12-17T02:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/citizen-science/</loc>
@@ -108,6 +120,10 @@
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/domain/</loc>
   <lastmod>2019-06-08T13:27:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://belkinsa.github.io/SenseOpenness/categories/elementary-os/</loc>
+  <lastmod>2019-12-17T02:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://belkinsa.github.io/SenseOpenness/categories/gandi/</loc>
