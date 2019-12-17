@@ -39,23 +39,25 @@ Just a FYI, Viber from Flatpak works out of the box without that weird Dpi scali
 Quoting from the [README](https://github.com/elementary-tweaks/elementary-tweaks/blob/master/README.md):
 
 >Installation
+>
 > ```
 >sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 >sudo apt install elementary-tweaks
 >```
-
+>
 >If you have never added a PPA on Juno before, you might need to run this command first: 
 >```
 >sudo apt install software-properties-common
 >```
-
+>
 >How to build
+>
 >```
 >sudo apt install libgconf2-dev libpolkit-gobject-1-dev libswitchboard-2.0-dev elementary-sdk
 >meson build --prefix=/usr
 >cd build
 >ninja
-
+>
 >sudo ninja install
 >io.elementary.switchboard
 >```
