@@ -1,23 +1,23 @@
 <!--
-.. title: Elementary OS Hera
+.. title: elementary OS Hera
 .. slug: elementary-os-hera
 .. date: 2019-12-16 21:45:00 UTC-05:00
-.. tags: Elementary OS
+.. tags: elementary OS
 .. category: Sense of Freedom
 .. link: 
 .. description:
 .. type: text
 -->
 
-Over the last decade, I noticed that I became a minimalist from really wanting to customize and have eye-candy. It's either that I matured from the awkward pre-teen and teen years or my thinking changed organically. But it's for the good of things as I noticed that I do tend to over think and over complicate my work flow. I also started to dislike Ubuntu over the last year or so. Recently, one of the YouTubers that follow,  Schykle, posted a [review](https://youtu.be/89hzz4HJUJg) on the most recent release of [Elementary OS](https://elementary.io/), 5.1 codenamed Hera. That video alone made want to try it out which I did. After a hour of using it, I fell in love of it and installed it with no issues- even though I never have installation issues, I tend to have issues from updates. I will talk about it and share my top five apps.
+Over the last decade, I noticed that I became a minimalist from really wanting to customize and have eye-candy. It's either that I matured from the awkward pre-teen and teen years or my thinking changed organically. But it's for the good of things as I noticed that I do tend to over think and over complicate my work flow. I also started to dislike Ubuntu over the last year or so. Recently, one of the YouTubers that follow,  Schykle, posted a [review](https://youtu.be/89hzz4HJUJg) on the most recent release of [elementary OS](https://elementary.io/), 5.1 codenamed Hera. That video alone made want to try it out which I did. After a hour of using it, I fell in love of it and installed it with no issues- even though I never have installation issues, I tend to have issues from updates. I will talk about it and share my top five apps.
 
-#Review of Elementary OS
-Elementary OS is prefect for those who are minimalists. It's very elegant and simple to use, maybe a bit too simple and minimal for my tastes as I do like to tweak a bit but not as much as some. It will also teach me to use more keyboard shortcuts to pull up apps faster. There are three other cool features that I like but they are already listed on their site. I don't really use those three anyways, expect Picture-in-Picture time to time.
+#Review of elementary OS
+elementary OS is prefect for those who are minimalists. It's very elegant and simple to use, maybe a bit too simple and minimal for my tastes as I do like to tweak a bit but not as much as some. It will also teach me to use more keyboard shortcuts to pull up apps faster. There are three other cool features that I like but they are already listed on their site. I don't really use those three anyways, expect Picture-in-Picture time to time.
 
-![](/images/Elementary OS.png)
+![](/images/elementary OS.png)
 
 ##The Good
-**Redundancy:** There is no redundancy of functions like on Ubuntu. One example is software updates. There are two apps were you can do it and two of them are redundant and they are Software Center and Software Updater. In Elementary OS, there is only one app: the AppCenter. I think this comes from the removal of using PPA's and just using their repos along with Flatpak allows it. 
+**Redundancy:** There is no redundancy of functions like on Ubuntu. One example is software updates. There are two apps were you can do it and two of them are redundant and they are Software Center and Software Updater. In elementary OS, there is only one app: the AppCenter. I think this comes from the removal of using PPA's and just using their repos along with Flatpak allows it. 
 
 **Flatpaks:** Flatpaks are way better than PPA's and the other methods of installing programs/apps because I do certain apps. The main examples are Viber, Telegram, and Discord. At the moment, you can Sideload from Flathub and it only installs on the user account that is logged in.
 
@@ -32,9 +32,9 @@ Just a FYI, Viber from Flatpak works out of the box without that weird Dpi scali
 **Volume Not Updating on Wing Panel:** I hope this is a bug and will be fixed soon.
 
 ##Other Notes
-**Ubuntu Repos:** Elementary is built of off Ubuntu which is useful if the app that you need isn't found in the official repos or Flatpak. The main examples, for me, are Firefox, MPV, pip, and the tools that allow me to upload with Nikola.
+**Ubuntu Repos:** elementary is built of off Ubuntu which is useful if the app that you need isn't found in the official repos or Flatpak. The main examples, for me, are Firefox, MPV, pip, and the tools that allow me to upload with Nikola.
 
-**Tweaking:** There isn't that much to tweaking to do expect if you like the power to minimize windows without using the keyboard shortcut `super + H` or disabling the single click in the file manger. Like in Ubuntu, the tweaks apps needs to be installed. The app on Elementary is called elementary-tweaks.
+**Tweaking:** There isn't that much to tweaking to do expect if you like the power to minimize windows without using the keyboard shortcut `super + H` or disabling the single click in the file manger. Like in Ubuntu, the tweaks apps needs to be installed. The app on elementary is called elementary-tweaks.
 
 Quoting from the [README](https://github.com/elementary-tweaks/elementary-tweaks/blob/master/README.md):
 
@@ -68,7 +68,7 @@ Then you simply just go into System Settings and the last item in Personal, as b
 
 #Top Five Apps
 I do use other apps that in repos like Optimizer, aren't in the repos like youtube-dl, or Flatpak like Viber, but these five are my top. The links are provided in the headers for each app.
-##From Elementary's  Repos
+##From elementary's  Repos
 ###[Notes-Up](https://appcenter.elementary.io/com.github.philip-scott.notes-up/)
 Notes-Up is a (yet another) note-taking app that allows you to keep notes in notebooks with tagging and note linking while you write in markdown with a formatting panel to help and auto-saving! What more to say about how awesome it is! Okay, two more things is you can export to Markdown or PDF and bookmark pages.
 ###[Clipped](https://appcenter.elementary.io/com.github.davidmhewitt.clipped)
