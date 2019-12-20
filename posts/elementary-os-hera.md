@@ -14,7 +14,7 @@ Over the last decade, I noticed that I became a minimalist from really wanting t
 #Review of elementary OS
 elementary OS is prefect for those who are minimalists. It's very elegant and simple to use, maybe a bit too simple and minimal for my tastes as I do like to tweak a bit but not as much as some. It will also teach me to use more keyboard shortcuts to pull up apps faster. There are three other cool features that I like but they are already listed on their site. I don't really use those three anyways, expect Picture-in-Picture time to time.
 
-![](/images/elementary OS.png)
+![](/images/elementaryOS.png)
 
 ##The Good
 **Redundancy:** There is no redundancy of functions like on Ubuntu. One example is software updates. There are two apps were you can do it and two of them are redundant and they are Software Center and Software Updater. In elementary OS, there is only one app: the AppCenter. I think this comes from the removal of using PPA's and just using their repos along with Flatpak allows it. 
