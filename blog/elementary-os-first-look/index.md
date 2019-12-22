@@ -31,7 +31,7 @@ Just a FYI, Viber from Flatpak works out of the box without that weird Dpi scali
 ##The Bad
 **Restarting/Shut Down Times:** I haven't had any issues in shutting down but when I restart, it takes forever. I heard that it's a issue.
 
-**Volume Not Updating on Wing Panel:** I hope this is a bug and will be fixed soon.
+**Volume Not Updating on Wing Panel:** I hope this is a [bug](https://github.com/elementary/wingpanel-indicator-sound/issues/130) and will be fixed soon.
 
 ##Other Notes
 **Ubuntu Repos:** elementary is built of off Ubuntu which is useful if the app that you need isn't found in the official repos or Flatpak. The main examples, for me, are Firefox, MPV, pip, and the tools that allow me to upload with Nikola.
