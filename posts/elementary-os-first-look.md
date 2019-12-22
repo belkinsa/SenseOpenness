@@ -1,6 +1,6 @@
 <!--
-.. title: elementary OS Hera
-.. slug: elementary-os-hera
+.. title: elementary OS First Look
+.. slug: elementary-os-first-look
 .. date: 2019-12-16 21:45:00 UTC-05:00
 .. tags: elementary OS
 .. category: Sense of Freedom
@@ -8,6 +8,7 @@
 .. description:
 .. type: text
 -->
+**December 21, 2019** I'm writing a new blog post about elementary OS after few days use. This blog post is simply the first look at the OS after an hour of use.
 
 Over the last decade, I noticed that I became a minimalist from really wanting to customize and have eye-candy. It's either that I matured from the awkward pre-teen and teen years or my thinking changed organically. But it's for the good of things as I noticed that I do tend to over think and over complicate my work flow. I also started to dislike Ubuntu over the last year or so. Recently, one of the YouTubers that follow,  Schykle, posted a [review](https://youtu.be/89hzz4HJUJg) on the most recent release of [elementary OS](https://elementary.io/), 5.1 codenamed Hera. That video alone made want to try it out which I did. After a hour of using it, I fell in love of it and installed it with no issues- even though I never have installation issues, I tend to have issues from updates. I will talk about it and share my top five apps.
 
